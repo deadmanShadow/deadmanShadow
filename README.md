@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Web Development (FrontEnd-BackEnd)**
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
-
 - 📫 How to reach me **raihanshamil33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
