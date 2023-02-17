@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm 
+<h1 align="center">Hello 👋, I'm 
   Abdullah Raihan Shamil</h1>
-<h3 align="center">I am always ready to learn although I do not always like being taught. A FrontEnd-BackEnd Web Learner from Bangladesh.</h3>
+<h3 align="center">A FrontEnd-BackEnd Web Learner from Bangladesh.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
