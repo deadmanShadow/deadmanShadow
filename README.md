@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abdullah Raihan Shamil</h1>
-<img align="right" alt="coding" width="full" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="center"> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. A FrontEnd-Backend Web Learner from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anunnecessary&label=Profile%20views&color=0e75b6&style=flat" alt="anunnecessary" /> </p>
