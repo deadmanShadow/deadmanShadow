@@ -1,10 +1,8 @@
 <h1 align="center">Hello 👋, I'm Abdullah Raihan Shamil</h1>
-<h3 align="center">All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. A FrontEnd-Backend Web Learner from Bangladesh.</h3>
+<h3 align="center"> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. A FrontEnd-Backend Web Learner from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anunnecessary&label=Profile%20views&color=0e75b6&style=flat" alt="anunnecessary" /> </p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anunnecessary" alt="anunnecessary" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anunnecessaryy" target="blank"><img src="https://img.shields.io/twitter/follow/anunnecessaryy?logo=twitter&style=for-the-badge" alt="anunnecessaryy" /></a> </p>
 
