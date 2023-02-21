@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello 👋, I'm Abdullah Raihan Shamil</h1>
+<h1 align="center">Hello, I'm Abdullah Raihan Shamil</h1>
 
 <h3 align="center"> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. A FrontEnd-Backend Web Learner from Bangladesh.</h3>
 
