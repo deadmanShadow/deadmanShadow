@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I’m Abdullah Raihan Shamil</h1>
 
-<h3 align="center"> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. A FrontEnd-Backend Web Learner from Bangladesh.</h3>
+<h3 align="center"> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. A Full Stack (FrontEnd-BackEnd-Database) Web Learner from Bangladesh.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
