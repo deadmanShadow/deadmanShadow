@@ -3,8 +3,7 @@
 
 <h3 align="center"> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. A Full Stack (FrontEnd-BackEnd-Database) Web Learner from Bangladesh.</h3>
 
-<img align="right" alt="coding" width="400" src="
-https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95204873b1f1510aa9bd4169f1ac1eb79a50cf3114b&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fdommespace-domme-space-programador-qgQUggAC3Pfv687qPC&psig=AOvVaw2zax5MQAo0y-CzJDvsKCd6&ust=1678112545005000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCytcL-xP0CFQAAAAAdAAAAABA3">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anunnecessary&label=Profile%20views&color=0e75b6&style=flat" alt="anunnecessary" /> </p>
 
