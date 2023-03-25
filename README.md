@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I’m Abdullah Raihan Shamil</h1>
 
-<h3 align="center"> A passionate learner of Full Stack Web Development, committed to creating stunning and functional websites. I excited to stay up-to-date with the latest technologies and frameworks to build seamless user experiences.</h3>
+<h3 align="center"> A passionate learner of Full Stack Web Development from Bangladesh.</h3>
 
 <img align="right" alt="gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
