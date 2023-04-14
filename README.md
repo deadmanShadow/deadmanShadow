@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/anunnecessaryy" target="blank"><img src="https://img.shields.io/twitter/follow/anunnecessaryy?logo=twitter&style=for-the-badge" alt="anunnecessaryy" /></a> </p>
 
-Skills: HTML / CSS / BOOTSTRAP / Tailwind / JavaScript / REACT JS / NODE.JS
+Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS / NODE.JS
 
-- 💬 Ask me about **JavaScript, REACT, CSS, ES6**
+- 💬 Ask me about **JavaScript, REACT JS, CSS, ES6**
 
 - 📫 How to reach me **raihanshamil33@gmail.com**
 
