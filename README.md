@@ -13,9 +13,9 @@ Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS
 
 - 💬 Ask me about **REACT JS, EXPRESS JS, ES6, FIREBASE**
 
-- 📫 How to reach me **raihanshamil33@gmail.com**
+- 📫: **raihanshamil33@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🌐 Reach me out:</h3>
 <p align="left">
 <a href="https://twitter.com/anunnecessaryy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anunnecessaryy" height="30" width="40" /></a>
 <a href="https://fb.com/anunnecessary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anunnecessary" height="30" width="40" /></a>
