@@ -11,7 +11,7 @@
 
 Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS
 
-- 💬 Ask me about: **REACT JS, EXPRESS JS, ES6, FIREBASE**
+- 💬 Ask me about: **REACT JS, EXPRESS JS, ES6, FIREBASE, mongoDB**
 
 - 📫 **raihanshamil33@gmail.com**
 
