@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center"> A passionate learner of Web Development from Bangladesh.</h3>
+<h2 align="center"> A passionate learner of Web Development from Bangladesh.</h2>
 
 🚀 I am a junior MERN and Font-End developer with a passion for building user-friendly and engaging applications. I am proficient in JavaScript, React, Node.js, and MongoDB, and I have experience with a variety of front-end frameworks and libraries. I am also a quick learner and I am always eager to take on new challenges.
 
