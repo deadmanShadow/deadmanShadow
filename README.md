@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi, I’m Abdullah Raihan Shamil 👋</h1>
+<h1 align="center">Hi, I’m <span align="center"> Abdullah Raihan Shamil 👋</span></h1>
 
 <h3 align="center"> A passionate learner of Web Development from Bangladesh.</h3>
 
