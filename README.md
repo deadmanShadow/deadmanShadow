@@ -19,9 +19,9 @@
 
 
 
-🚀 I am a junior MERN and Font-End developer with a passion for building user-friendly and engaging applications. I am proficient in JavaScript, React, Node.js, and MongoDB, and I have experience with a variety of front-end frameworks and libraries. I am also a quick learner and I am always eager to take on new challenges.
+<p>🚀 I am a junior MERN and Font-End developer with a passion for building user-friendly and engaging applications. I am proficient in JavaScript, React, Node.js, and MongoDB, and I have experience with a variety of front-end frameworks and libraries. I am also a quick learner and I am always eager to take on new challenges.
 
-In my previous role, I was responsible for developing and maintaining a large-scale web application.
+In my previous role, I was responsible for developing and maintaining a large-scale web application. </p>
 
 
 ![Profile views](https://gpvc.arturio.dev/anUnnecessary)
