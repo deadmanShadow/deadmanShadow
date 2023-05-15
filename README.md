@@ -1,9 +1,10 @@
+<h1 align="center">Hello, I’m Abdullah Raihan Shamil</h1>
+
+
 <img align="right" alt="gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
-
-<h2 align="center">Hello, I’m Abdullah Raihan Shamil</h2>
 
 <h3 align="center"> A passionate learner of Web Development from Bangladesh.</h3>
 
