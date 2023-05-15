@@ -33,5 +33,3 @@ Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anUnnecessary&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anUnnecessary)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anUnnecessary)
