@@ -32,6 +32,9 @@ Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anUnnecessary&size_weight=0.5&count_weight=0.5)](https://github.com/anUnnecessary/github-readme-stats)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anUnnecessary)](https://github.com/anUnnecessary/github-readme-stats)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anUnnecessary&show_icons=true&theme=tokyonight)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anUnnecessary)
