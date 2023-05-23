@@ -20,7 +20,7 @@ Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS
 
 ## :mailbox: Reach me out
 <p align="left">
-  <a href="https://linkedin.com/in/in/anunnecessary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/anunnecessary/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/anunnecessary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/anunnecessary/" height="30" width="40" /></a>
 <a href="https://twitter.com/anunnecessaryy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anunnecessaryy" height="30" width="40" /></a>
 <a href="https://fb.com/anunnecessary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anunnecessary" height="30" width="40" /></a>
 <a href="https://instagram.com/_xamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_xamil" height="30" width="40" /></a>
