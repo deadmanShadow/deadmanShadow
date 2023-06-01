@@ -42,11 +42,3 @@ Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS
 <p align="left">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=anUnnecessary&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-
-
-## :chart_with_upwards_trend: GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anUnnecessary&repo=github-readme-stats" />
-</a>
-
