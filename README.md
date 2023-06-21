@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello 👋, I am Abdullah Raihan Shamil</h1>
+<h1 align="center">Hello 👋</h1>
 <h2 align="center"> A passionate Web Developer from Bangladesh.</h2>
 
 <img align="right" alt="gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
