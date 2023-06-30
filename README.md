@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Welcome to my GitHub!</h1>
+<h1 align="center">Welcome! </h1>
 <h2 align="center"> A passionate Web Developer from Bangladesh.</h2>
 
 <img align="right" alt="gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </br>
 
-<h4>🎓 A Junior Full MERN Stack Developer with a passion for building user-friendly and engaging applications. Despite coming from a non-CSE background, I’ve developed a strong passion for web development. I’ve been focusing on mastering the MERN Stack (MongoDB, Express.js, React.js, and Node.js) and honing my Frontend skills.</h4>
+<h4>🎓 A Junior MERN Stack Developer with a passion for building user-friendly and engaging applications. Despite coming from a non-CSE background, I’ve developed a strong passion for web development. I’ve been focusing on mastering the MERN Stack (MongoDB, Express.js, React.js, and Node.js) and honing my Frontend skills.</h4>
 
 Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS
 
