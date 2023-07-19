@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Welcome! </h1>
-<h2 align="center"> A passionate Web Developer from Bangladesh.</h2>
+<h2 align="center">Non-CSE Major Embarking on an Exciting Journey as a MERN Stack Developer</h2>
 
 <img align="right" alt="gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </br>
 
-🎓 A Junior MERN Stack Developer with a passion for building user-friendly and engaging applications. Despite coming from a non-CSE background, I’ve developed a strong passion for web development. I’ve been focusing on mastering the MERN Stack (MongoDB, Express.js, React.js, and Node.js) and honing my Frontend skills.
+🎓Welcome to my GitHub Profile. As a non-Computer Science Engineering (CSE) major transitioning into the world of web development, I have embarked on an exciting journey to become a MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. My journey as a MERN stack developer has been driven by my passion for creating dynamic and interactive web applications.
 
 Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS
 
