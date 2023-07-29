@@ -8,7 +8,7 @@
 
 🎓Welcome to my GitHub Profile. As a non-Computer Science Engineering (CSE) major transitioning into the world of web development, I have embarked on an exciting journey to become a MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. My journey as a MERN stack developer has been driven by my passion for creating dynamic and interactive web applications.
 
-Skills: HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS
+Skills: <b> HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS </b>
 
 - 💬 Ask me about: *JavaScript,ES6, React, Firebase.*
 
