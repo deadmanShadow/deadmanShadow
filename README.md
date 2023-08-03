@@ -1,11 +1,9 @@
 <h1 align="center">Welcome! </h1>
 <h2 align="center">Non-CSE Major Embarking on an Exciting Journey as a MERN Stack Developer.</h2>
 
- <h3> 💫 Who’s this dude? </h3>
+ <h1> 💫 Who’s this dude? </h1>
 🎓Welcome to my GitHub Profile. As a non-Computer Science Engineering (CSE) major transitioning into the world of web development, I have embarked on an exciting journey to become a MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. My journey as a MERN stack developer has been driven by my passion for creating dynamic and interactive web applications.<br>
 <br>
-
-
 
 ## 🌐 Socials:
 <p align="left">
@@ -26,5 +24,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thatUltimateJSDev&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatUltimateJSDev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
