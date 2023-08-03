@@ -10,7 +10,7 @@
 
 Skills: <b> HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT JS | NODE.JS </b>
 
-- 💬 Ask me about: *JavaScript,ES6, React, Firebase.*
+- 💬 Ask me about: Anything <a href="https://www.facebook.com/messages/t/100004034787414">here!</a>
 
 - 📫 Mail: **raihanshamil33@gmail.com**
 
