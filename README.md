@@ -3,10 +3,10 @@
 <br>
 
 
-## <img align="right" alt="gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## <img align="right" alt="gif" width="400" height="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </br>
-#
-# 💫 About Me:
+
+#💫 About Me:
 🎓Welcome to my GitHub Profile. As a non-Computer Science Engineering (CSE) major transitioning into the world of web development, I have embarked on an exciting journey to become a MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. My journey as a MERN stack developer has been driven by my passion for creating dynamic and interactive web applications.<br>
 <br> <br>
 - 📫 Mail: **raihanshamil33@gmail.com**
