@@ -18,7 +18,7 @@
             alt="_xamil" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me **raihanshamil33@gmail.com**
+- 📫 Mail: **raihanshamil33@gmail.com**
 
 ## 💻 Technologies that I know:
 
