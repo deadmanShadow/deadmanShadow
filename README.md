@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! </h1>
-<h3 align="center">Non-CSE Major Embarking on an Exciting Journey as a MERN Stack Developer.</h3>
+<h3 align="center">Non-CSE major embarking on an exciting journey as a MERN Stack Developer.</h3>
 
 ## 💫 Who’s this dude? 
 🎓Welcome to my GitHub Profile. As a non-Computer Science Engineering (CSE) major transitioning into the world of web development, I have embarked on an exciting journey to become a MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. My journey as a MERN stack developer has been driven by my passion for creating dynamic and interactive web applications.<br>
