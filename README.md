@@ -5,7 +5,7 @@
 🎓Welcome to my GitHub Profile. As a non-Computer Science Engineering (CSE) major transitioning into the world of web development, I have embarked on an exciting journey to become a MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. My journey as a MERN stack developer has been driven by my passion for creating dynamic and interactive web applications.<br>
 
 - 🌱 I’m currently learning **many things, I believe that everyday is a learning opportunity.**
-- 💬 Ask me about **React.js, TypeScript, API Development**
+- 💬 Ask me about **React.js, TypeScript, API Development.**
 - :wrench: Tools - VSCode, PyCharm, Spotify.
 ## 🌐 Socials:
 <p align="left">
