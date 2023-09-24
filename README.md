@@ -2,7 +2,7 @@
 <h3 align="center">Non-CSE major embarking on an exciting journey as a MERN Stack Developer.</h3>
 
 ## 💫 Who’s this dude? 
-🎓Welcome to my GitHub Profile. As a non-Computer Science Engineering (CSE) major transitioning into the world of web development, I have embarked on an exciting journey to become a MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. My journey as a MERN stack developer has been driven by my passion for creating dynamic and interactive web applications.<br>
+🎓 Welcome to my GitHub profile! As a non-Computer Science Engineering (CSE) graduate transitioning into the world of web development, I believe that every setback is a stepping stone toward mastery. Embracing the MERN Stack, my passion for JavaScript fuels my progress, one line of code at a time.
 
 - 🌱 I’m currently learning **many things, I believe that everyday is a learning opportunity.**
 - 💬 Ask me about **ES6, React.js, API Development.**
