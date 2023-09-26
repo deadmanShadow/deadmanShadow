@@ -1,4 +1,4 @@
-![TOP LEVEL](https://miro.medium.com/v2/resize:fit:720/0*2UQyFlncaFLsYSHK.gif)
+![API Integration](https://miro.medium.com/v2/resize:fit:720/0*2UQyFlncaFLsYSHK.gif)
 
 <h1 align="center">Welcome! </h1>
 <h3 align="center">Non-CSE major embarking on an exciting journey as a MERN Stack Developer.</h3>
