@@ -31,7 +31,7 @@
 </div>
 
 ## ⚡ GitHub Stats:
-![thatUltimateJSDev's Stats](https://github-readme-stats.vercel.app/api?username=thatUltimateJSDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![thatUltimateJSDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatUltimateJSDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
