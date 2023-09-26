@@ -31,8 +31,7 @@
 </div>
 
 ## ⚡ GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=thatUltimateJSDev&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatUltimateJSDev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![thatUltimateJSDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatUltimateJSDev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
