@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://miro.medium.com/v2/resize:fit:720/0*2UQyFlncaFLsYSHK.gif)
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Welcome! </h1>
 <h3 align="center">Non-CSE major embarking on an exciting journey as a MERN Stack Developer.</h3>
