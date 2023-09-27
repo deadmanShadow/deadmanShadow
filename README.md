@@ -31,6 +31,7 @@
 </div>
 
 ## ⚡ GitHub Stats:
+![thatUltimateJSDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thatUltimateJSDev&theme=dark&hide_border=true)
 ![thatUltimateJSDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatUltimateJSDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## ✍️ Random Dev Quote:
