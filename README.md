@@ -13,10 +13,10 @@
 <p align="left">
     <a href="https://linkedin.com/in/thatUltimateJSDev/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="in/thatUltimateJSDev/" height="30" width="40" /></a>
+            alt="in/raihanShamilDev/" height="30" width="40" /></a>
     <a href="https://fb.com/thatUltimateJSDev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="thatUltimateJSDev" height="30" width="40" /></a>
+            alt="raihanShamilDev" height="30" width="40" /></a>
     <a href="https://instagram.com/_xamil" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="_xamil" height="30" width="40" /></a>
@@ -31,9 +31,9 @@
 </div>
 
 ## ⚡ GitHub Stats:
-![thatUltimateJSDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thatUltimateJSDev&theme=dark&hide_border=true)
+![thatUltimateJSDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raihanShamilDev&theme=dark&hide_border=true)
 
-![thatUltimateJSDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatUltimateJSDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![thatUltimateJSDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanShamilDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
