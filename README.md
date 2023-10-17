@@ -32,9 +32,9 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raihanShamilDev&theme=dark&hide_border=true)<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanShamilDev&show_icons=true&locale=en" alt="raihanShamilDev" /></p> <br/>
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanShamilDev&show_icons=true&locale=en" alt="raihanShamilDev" /></p>
 <br/>
 
 ## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) </p>
