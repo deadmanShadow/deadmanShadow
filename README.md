@@ -36,9 +36,6 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=raihanShamilDev&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanShamilDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
