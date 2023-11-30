@@ -32,13 +32,12 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center" style="width: 60%; margin: 0 auto; background-color: #0D1117; border: 1px solid #0D1117; border-radius: 8px; padding: 20px;">
-  <img style="max-width: 100%; height: auto; border: 1px solid #0D1117; border-radius: 8px;" src="https://github-readme-streak-stats.herokuapp.com?user=raihanShamilDev&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+<p>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=raihanShamilDev&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img style="max-width: 48%; border: 1px solid #0D1117; border-radius: 8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanShamilDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanShamilDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ### ✍️ Random Dev Quote
