@@ -1,10 +1,9 @@
 ![API Integration](https://miro.medium.com/v2/resize:fit:720/0*2UQyFlncaFLsYSHK.gif)
 
 <h1 align="center">Welcome! </h1>
-<h3 align="center">A MERN Stack Developer in the making, breaking into the tech scene from a non-Computer Science Engineering background.</h3>
 
 ## 💫 Who’s this dude? 
-🎓 Welcome to my GitHub profile! As a non-Computer Science Engineering (CSE) graduate transitioning into the world of web development, I believe that every setback is a stepping stone toward mastery. Embracing the MERN Stack, my passion for JavaScript fuels my progress, one line of code at a time.
+🎓 Welcome to my GitHub profile! As a non-Computer Science Engineering (CSE) graduate transitioning into the world of web development, I believe that every setback is a stepping stone toward mastery. Utilizing the MERN Stack, my passion for JavaScript drives my progress, one line of code at a time.
 
 - 🌱 I’m currently learning **many things, I believe that everyday is a learning opportunity.**
 - 💬 Ask me about **ES6, React.js, API Development.**
