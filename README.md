@@ -3,7 +3,7 @@
 <h1 align="center">Welcome! </h1>
 
 ## 💫 Who’s this dude? 
-🎓 Welcome to my GitHub profile! As a non-Computer Science Engineering (CSE) graduate transitioning into the world of web development, I believe that every setback is a stepping stone toward mastery. Utilizing the MERN Stack, my passion for JavaScript drives my progress, one line of code at a time.
+🎓 A Junior Web Developer with a huge love for developing web applications using JavaScript, React, and .NET technologies. My journey in the world of programming is driven by the excitement of constructing fluid and dynamic user experiences.
 
 - 🌱 I’m currently learning **many things, I believe that everyday is a learning opportunity.**
 - 💬 Ask me about **ES6, React.js, API Development.**
@@ -12,18 +12,9 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
+
 ## 🌐 Socials:
-<p align="left">
-    <a href="https://linkedin.com/in/thatUltimateJSDev/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="in/raihanShamilDev/" height="30" width="40" /></a>
-    <a href="https://fb.com/thatUltimateJSDev" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="raihanShamilDev" height="30" width="40" /></a>
-    <a href="https://instagram.com/_xamil" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="_xamil" height="30" width="40" /></a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raihanShamilDev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_xamil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanShamilDev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22365117) 
 
 - 📫 Mail: **raihanshamil33@gmail.com**
 
