@@ -1,5 +1,4 @@
-
-
+![MasterHead](https://raw.githubusercontent.com/deadmanShadow/deadmanShadow/main/jsman.gif)
 <h1 align="center">Welcome! </h1>
 
 ![API Integration](https://miro.medium.com/v2/resize:fit:720/0*2UQyFlncaFLsYSHK.gif)
