@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/deadmanShadow/deadmanShadow/main/ahsan.gif)
+
 
 <h1 align="center">Welcome! </h1>
 
