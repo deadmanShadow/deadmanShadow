@@ -1,6 +1,10 @@
-![API Integration](https://miro.medium.com/v2/resize:fit:720/0*2UQyFlncaFLsYSHK.gif)
+![MasterHead](https://raw.githubusercontent.com/deadmanShadow/deadmanShadow/main/ahsan.gif)
 
 <h1 align="center">Welcome! </h1>
+
+![API Integration](https://miro.medium.com/v2/resize:fit:720/0*2UQyFlncaFLsYSHK.gif)
+
+
 
 ## 💫 Who’s this dude? 
 🎓 A Junior Web Developer with a huge love for developing web applications using JavaScript, React, and .NET technologies. My journey in the world of programming is driven by the excitement of constructing fluid and dynamic user experiences.
