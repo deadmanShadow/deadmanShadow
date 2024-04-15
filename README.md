@@ -10,7 +10,7 @@
 
 ### Hello 👋
 
-- 🔭 A Software Developer, in love with JavaScript.
+- 🔭 A Software Developer.
 - 🌱 I’m currently learning Core Programming Concepts.
 - 👯 I’m looking to collaborate on Web Development.
 - 💬 Ask me about Full-Stack Development.
