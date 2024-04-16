@@ -1,14 +1,19 @@
 ![MasterHead](https://raw.githubusercontent.com/deadmanShadow/deadmanShadow/main/jsman.gif)
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=deadmanShadow&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=deadmanShadow&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
+
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=deadmanShadow&theme=dark&hide_border=false)<br/>
+</p>
+
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </p>
 
-### Hello 👋
+## Hello! 
 
 - 🔭 A Software Developer.
 - 🌱 I’m currently learning Core Programming Concepts.
