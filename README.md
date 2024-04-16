@@ -8,7 +8,6 @@
   
 </p>
 
-<p align="center">
 ### Hello 👋
 
 - 🔭 A Software Developer.
