@@ -13,9 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/deadmanshadow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deadmanshadow1" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/deadmanshadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deadmanshadow" height="30" width="40" /></a>
-<a href="https://fb.com/deadmanshadow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deadmanshadow1" height="30" width="40" /></a>
+<a href="https://dev.to/deadmanshadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deadmanshadow" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/deadmanshadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deadmanshadow" height="30" width="40" /></a>
 </p>
+
 
 
 ## ✍️ Random Dev Quote
