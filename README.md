@@ -1,16 +1,5 @@
 <!-- [![Abdullah Raihan Shamil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deadmanShadow&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-## Stats:
-
-<br />
-<p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=deadmanShadow&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadmanShadow&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF1CF7&text_color=00F0FF&icon_color=FF1CF7" />
-</p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
