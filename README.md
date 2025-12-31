@@ -1,6 +1,6 @@
 <!-- [![Abdullah Raihan Shamil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deadmanShadow&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<h3 align="left">Stats</h3>
+<h3 align="center">Stats</h3>
 
 <p align="center">
 
@@ -13,7 +13,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<h3 align="left">Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 <p align="center">
 
   <!-- Languages -->
@@ -64,7 +64,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://fb.com/deadmanshadow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deadmanshadow1" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/deadmanshadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deadmanshadow" height="30" width="40" /></a>
@@ -74,8 +74,7 @@
   <a href="https://codeforces.com/profile/raihanshamildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raihanshamildev" height="30" width="40" /></a>
 </p>
 
-### Random Dev Quote:
-
+<h3 align="center">Random Qoute</h3>
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></img>
 </p>
