@@ -1,5 +1,15 @@
 <!-- [![Abdullah Raihan Shamil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deadmanShadow&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+# Stats:
+![](https://github-readme-stats.vercel.app/api?username=deadmanShadow&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=deadmanShadow&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deadmanShadow&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=deadmanShadow&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 <h3 align="left">Languages & Tools</h3>
 <p align="center">
