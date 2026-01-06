@@ -1,15 +1,5 @@
 <!-- [![Abdullah Raihan Shamil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deadmanShadow&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<h2 align="center">Stats</h3>
-
-<p align="center">
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=deadmanShadow&theme=nord&hide_border=true" />
-</p>
-
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
