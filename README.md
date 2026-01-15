@@ -64,7 +64,7 @@
   <a href="https://codeforces.com/profile/raihanshamildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raihanshamildev" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Random Qoute</h3>
+<!-- <h2 align="center">Random Qoute</h3>
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></img>
-</p>
+</p> -->
