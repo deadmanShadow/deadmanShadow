@@ -3,8 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deadmanShadow/deadmanShadow/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deadmanShadow&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadmanShadow&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<!--START_SECTION:quote-->
+<!--END_SECTION:quote-->
+
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
