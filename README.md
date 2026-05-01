@@ -6,7 +6,6 @@
   <img src="https://raw.githubusercontent.com/deadmanShadow/deadmanShadow/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
