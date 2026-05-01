@@ -30,7 +30,9 @@ jobs:
 
           # Fetch a random quote
           try:
-              with urllib.request.urlopen("https://api.quotable.io/random?tags=technology,motivational") as response:
+              # Using a different endpoint as backup or if tags are needed
+              url = "https://api.quotable.io/random?tags=technology,motivational"
+              with urllib.request.urlopen(url) as response:
                   data = json.loads(response.read().decode())
                   quote = data['content']
                   author = data['author']
@@ -39,7 +41,8 @@ jobs:
               quote = "Code is like humor. When you have to explain it, it’s bad."
               author = "Cory House"
 
-          quote_content = f"\n> {quote}\n>\n> — **{author}**\n"
+          # Create centered HTML quote
+          quote_content = f"\n<p align=\"center\">\n  <i>\"{quote}\"</i><br>\n  <b>— {author}</b>\n</p>\n"
 
           # Read README.md
           with open("README.md", "r", encoding="utf-8") as f:
