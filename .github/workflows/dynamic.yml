@@ -2,7 +2,6 @@ name: Dynamic README
 
 on:
   schedule:
-    # Runs every 12 hours to keep the profile fresh while you sleep
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -22,21 +21,43 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Update GitHub Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "chore: update github activity [skip ci]"
+      - name: Update Daily Quote
+        shell: python
+        run: |
+          import urllib.request
+          import json
+          import re
 
-      - name: Daily Quotes
-        uses: muesli/readme-quotes@master
-        with:
-          template: >
-            ### 💬 Quote of the Day
-            
-            > {{ .Quote }}
-            
-            — {{ .Author }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Fetch a random quote
+          try:
+              with urllib.request.urlopen("https://api.quotable.io/random?tags=technology,motivational") as response:
+                  data = json.loads(response.read().decode())
+                  quote = data['content']
+                  author = data['author']
+          except Exception as e:
+              print(f"Error fetching quote: {e}")
+              quote = "Code is like humor. When you have to explain it, it’s bad."
+              author = "Cory House"
+
+          quote_content = f"\n> {quote}\n>\n> — **{author}**\n"
+
+          # Read README.md
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          # Replace content between markers
+          pattern = r"(<!--START_SECTION:quote-->)(.*?)(<!--END_SECTION:quote-->)"
+          replacement = f"\\1{quote_content}\\3"
+          new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+          # Write back to README.md
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_readme)
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update daily quote [skip ci]"
+          git push
