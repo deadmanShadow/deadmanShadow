@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,nginx,aws,jenkins&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,cpp,react,nextjs,nodejs,postgres,docker,aws&perline=8" />
 </p>
