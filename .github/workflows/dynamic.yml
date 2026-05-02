@@ -27,19 +27,30 @@ jobs:
           import urllib.request
           import json
           import re
+          import random
+
+          # List of fallback quotes if API fails
+          fallbacks = [
+              {"content": "Code is like humor. When you have to explain it, it’s bad.", "author": "Cory House"},
+              {"content": "First, solve the problem. Then, write the code.", "author": "John Johnson"},
+              {"content": "Experience is the name everyone gives to their mistakes.", "author": "Oscar Wilde"},
+              {"content": "In order to be irreplaceable, one must always be different.", "author": "Coco Chanel"},
+              {"content": "Knowledge is power.", "author": "Francis Bacon"}
+          ]
 
           # Fetch a random quote
           try:
-              # Using a different endpoint as backup or if tags are needed
-              url = "https://api.quotable.io/random?tags=technology,motivational"
+              # Using ZenQuotes API which is very reliable for motivational/dev quotes
+              url = "https://zenquotes.io/api/random"
               with urllib.request.urlopen(url) as response:
                   data = json.loads(response.read().decode())
-                  quote = data['content']
-                  author = data['author']
+                  quote = data[0]['q']
+                  author = data[0]['a']
           except Exception as e:
               print(f"Error fetching quote: {e}")
-              quote = "Code is like humor. When you have to explain it, it’s bad."
-              author = "Cory House"
+              f = random.choice(fallbacks)
+              quote = f['content']
+              author = f['author']
 
           # Create centered HTML quote
           quote_content = f"\n<p align=\"center\">\n  <i>\"{quote}\"</i><br>\n  <b>— {author}</b>\n</p>\n"

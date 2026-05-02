@@ -8,6 +8,3 @@
 <!--END_SECTION:quote-->
 
 </div>
-
-
-
