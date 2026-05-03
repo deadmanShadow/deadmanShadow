@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i><br>
-  <b>— Theodore Roosevelt</b>
+  <i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i><br>
+  <b>— Simon Sinek</b>
 </p>
 <!--END_SECTION:quote-->
 
