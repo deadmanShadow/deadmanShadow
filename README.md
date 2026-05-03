@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you pray for rain, be prepared to deal with some mud."</i><br>
-  <b>— Mary Engelbreit</b>
+  <i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i><br>
+  <b>— Theodore Roosevelt</b>
 </p>
 <!--END_SECTION:quote-->
 
