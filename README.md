@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i><br>
-  <b>— Simon Sinek</b>
+  <i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i><br>
+  <b>— Lao Tzu</b>
 </p>
 <!--END_SECTION:quote-->
 
