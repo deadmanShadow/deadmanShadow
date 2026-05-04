@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i><br>
-  <b>— Lao Tzu</b>
+  <i>"The farther backward you can look, the farther forward you are likely to see."</i><br>
+  <b>— Winston Churchill</b>
 </p>
 <!--END_SECTION:quote-->
 
