@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"My sun sets to rise again."</i><br>
-  <b>— Robert Browning</b>
+  <i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i><br>
+  <b>— Mark Twain</b>
 </p>
 <!--END_SECTION:quote-->
 
