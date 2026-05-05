@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The farther backward you can look, the farther forward you are likely to see."</i><br>
-  <b>— Winston Churchill</b>
+  <i>"My sun sets to rise again."</i><br>
+  <b>— Robert Browning</b>
 </p>
 <!--END_SECTION:quote-->
 
