@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"He who is untrue to his own cause cannot command the respect of others."</i><br>
-  <b>— Albert Einstein</b>
+  <i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i><br>
+  <b>— Sydney Smith</b>
 </p>
 <!--END_SECTION:quote-->
 
