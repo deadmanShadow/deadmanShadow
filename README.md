@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i><br>
-  <b>— Mark Twain</b>
+  <i>"He who is untrue to his own cause cannot command the respect of others."</i><br>
+  <b>— Albert Einstein</b>
 </p>
 <!--END_SECTION:quote-->
 
