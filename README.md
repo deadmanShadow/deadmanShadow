@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There is no value in anything until it is finished. "</i><br>
-  <b>— Genghis Khan</b>
+  <i>"There is only the one reality, neither to be realized nor attained."</i><br>
+  <b>— Huang Po</b>
 </p>
 <!--END_SECTION:quote-->
 
