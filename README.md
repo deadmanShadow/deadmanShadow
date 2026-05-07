@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i><br>
-  <b>— Sydney Smith</b>
+  <i>"There is no value in anything until it is finished. "</i><br>
+  <b>— Genghis Khan</b>
 </p>
 <!--END_SECTION:quote-->
 
