@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There is only the one reality, neither to be realized nor attained."</i><br>
-  <b>— Huang Po</b>
+  <i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i><br>
+  <b>— Alexandre Dumas</b>
 </p>
 <!--END_SECTION:quote-->
 
