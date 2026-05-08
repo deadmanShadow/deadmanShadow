@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i><br>
-  <b>— Alexandre Dumas</b>
+  <i>"No man is free who is not master of himself."</i><br>
+  <b>— Epictetus</b>
 </p>
 <!--END_SECTION:quote-->
 
