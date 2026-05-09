@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"No man is free who is not master of himself."</i><br>
-  <b>— Epictetus</b>
+  <i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i><br>
+  <b>— Deepak Chopra</b>
 </p>
 <!--END_SECTION:quote-->
 
