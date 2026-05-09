@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i><br>
-  <b>— Deepak Chopra</b>
+  <i>"You can't have anything worthwhile without difficulties."</i><br>
+  <b>— Harry S. Truman</b>
 </p>
 <!--END_SECTION:quote-->
 
