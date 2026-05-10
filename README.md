@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Growth is in a series of mistakes. That's the only way you learn."</i><br>
-  <b>— Steve Harvey</b>
+  <i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i><br>
+  <b>— Yoko Ono</b>
 </p>
 <!--END_SECTION:quote-->
 
