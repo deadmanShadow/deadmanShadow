@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You can't have anything worthwhile without difficulties."</i><br>
-  <b>— Harry S. Truman</b>
+  <i>"Growth is in a series of mistakes. That's the only way you learn."</i><br>
+  <b>— Steve Harvey</b>
 </p>
 <!--END_SECTION:quote-->
 
