@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i><br>
-  <b>— Yoko Ono</b>
+  <i>"Let the beauty of what you love be what you do."</i><br>
+  <b>— Rumi</b>
 </p>
 <!--END_SECTION:quote-->
 
