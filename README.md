@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Let the beauty of what you love be what you do."</i><br>
-  <b>— Rumi</b>
+  <i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i><br>
+  <b>— Samuel Beckett</b>
 </p>
 <!--END_SECTION:quote-->
 
