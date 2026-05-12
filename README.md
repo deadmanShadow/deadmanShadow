@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i><br>
-  <b>— Ralph Marston</b>
+  <i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i><br>
+  <b>— Andrew Carnegie</b>
 </p>
 <!--END_SECTION:quote-->
 
