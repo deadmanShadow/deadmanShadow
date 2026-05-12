@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i><br>
-  <b>— Samuel Beckett</b>
+  <i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i><br>
+  <b>— Ralph Marston</b>
 </p>
 <!--END_SECTION:quote-->
 
