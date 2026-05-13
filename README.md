@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Learn from the rejection and turn it into an opportunity!"</i><br>
-  <b>— Mary Engelbreit</b>
+  <i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i><br>
+  <b>— Paulo Coelho</b>
 </p>
 <!--END_SECTION:quote-->
 
