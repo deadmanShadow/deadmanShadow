@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i><br>
-  <b>— Paulo Coelho</b>
+  <i>"No matter what happens, always be yourself."</i><br>
+  <b>— Dale Carnegie</b>
 </p>
 <!--END_SECTION:quote-->
 
