@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"No matter what happens, always be yourself."</i><br>
-  <b>— Dale Carnegie</b>
+  <i>"To be totally at leisure for one day is to be immortal for one day. "</i><br>
+  <b>— Chinese Proverb</b>
 </p>
 <!--END_SECTION:quote-->
 
