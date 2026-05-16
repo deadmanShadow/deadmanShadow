@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"No matter what happens, always be yourself."</i><br>
-  <b>— Dale Carnegie</b>
+  <i>"The search for happiness is one of the chief sources of unhappiness."</i><br>
+  <b>— Eric Hoffer</b>
 </p>
 <!--END_SECTION:quote-->
 
