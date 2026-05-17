@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i><br>
-  <b>— Thomas Jefferson</b>
+  <i>"The attempt to escape from pain, is what creates more pain."</i><br>
+  <b>— Gabor Mate</b>
 </p>
 <!--END_SECTION:quote-->
 
