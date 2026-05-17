@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The search for happiness is one of the chief sources of unhappiness."</i><br>
-  <b>— Eric Hoffer</b>
+  <i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i><br>
+  <b>— Thomas Jefferson</b>
 </p>
 <!--END_SECTION:quote-->
 
