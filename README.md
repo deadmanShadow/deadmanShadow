@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The attempt to escape from pain, is what creates more pain."</i><br>
-  <b>— Gabor Mate</b>
+  <i>"Animals don't hate, and we're supposed to be better than them."</i><br>
+  <b>— Elvis Presley</b>
 </p>
 <!--END_SECTION:quote-->
 
