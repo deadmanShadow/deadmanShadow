@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Animals don't hate, and we're supposed to be better than them."</i><br>
-  <b>— Elvis Presley</b>
+  <i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i><br>
+  <b>— Richard Bach</b>
 </p>
 <!--END_SECTION:quote-->
 
