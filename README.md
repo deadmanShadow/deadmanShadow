@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Rivers know this: there is no hurry. We shall get there some day."</i><br>
-  <b>— A.A. Milne</b>
+  <i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i><br>
+  <b>— George Washington</b>
 </p>
 <!--END_SECTION:quote-->
 
