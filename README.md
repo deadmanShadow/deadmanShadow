@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i><br>
-  <b>— Richard Bach</b>
+  <i>"Rivers know this: there is no hurry. We shall get there some day."</i><br>
+  <b>— A.A. Milne</b>
 </p>
 <!--END_SECTION:quote-->
 
