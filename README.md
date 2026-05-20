@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i><br>
-  <b>— George Washington</b>
+  <i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i><br>
+  <b>— Anita Krizzan</b>
 </p>
 <!--END_SECTION:quote-->
 
