@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i><br>
-  <b>— Carlos Ruiz Zafon</b>
+  <i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i><br>
+  <b>— John Eliot</b>
 </p>
 <!--END_SECTION:quote-->
 
