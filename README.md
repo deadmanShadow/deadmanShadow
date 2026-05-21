@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Never was anything great achieved without danger."</i><br>
-  <b>— Niccolo Machiavelli</b>
+  <i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i><br>
+  <b>— Carlos Ruiz Zafon</b>
 </p>
 <!--END_SECTION:quote-->
 
