@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When the root is strong, the fruit is sweet."</i><br>
-  <b>— Bob Marley</b>
+  <i>"You can have it all. You just can't have it all at once. "</i><br>
+  <b>— Oprah Winfrey</b>
 </p>
 <!--END_SECTION:quote-->
 
