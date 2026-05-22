@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i><br>
-  <b>— John Eliot</b>
+  <i>"When the root is strong, the fruit is sweet."</i><br>
+  <b>— Bob Marley</b>
 </p>
 <!--END_SECTION:quote-->
 
