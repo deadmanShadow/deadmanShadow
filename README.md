@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Never do to others what you would not like them to do to you. "</i><br>
-  <b>— Confucius</b>
+  <i>"If you try, you might get exactly what you want. If you don't, you don't."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
