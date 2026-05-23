@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You can have it all. You just can't have it all at once. "</i><br>
-  <b>— Oprah Winfrey</b>
+  <i>"Never do to others what you would not like them to do to you. "</i><br>
+  <b>— Confucius</b>
 </p>
 <!--END_SECTION:quote-->
 
