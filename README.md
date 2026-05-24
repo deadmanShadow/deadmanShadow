@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you try, you might get exactly what you want. If you don't, you don't."</i><br>
-  <b>— Unknown</b>
+  <i>"So long as we are being remembered, we remain alive."</i><br>
+  <b>— Carlos Ruiz Zafon</b>
 </p>
 <!--END_SECTION:quote-->
 
