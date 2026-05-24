@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"So long as we are being remembered, we remain alive."</i><br>
-  <b>— Carlos Ruiz Zafon</b>
+  <i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i><br>
+  <b>— Oprah Winfrey</b>
 </p>
 <!--END_SECTION:quote-->
 
