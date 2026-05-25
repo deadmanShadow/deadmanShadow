@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If they wrote it to make money, don't read it."</i><br>
-  <b>— Naval Ravikant</b>
+  <i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i><br>
+  <b>— Zig Ziglar</b>
 </p>
 <!--END_SECTION:quote-->
 
