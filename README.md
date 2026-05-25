@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i><br>
-  <b>— Oprah Winfrey</b>
+  <i>"If they wrote it to make money, don't read it."</i><br>
+  <b>— Naval Ravikant</b>
 </p>
 <!--END_SECTION:quote-->
 
