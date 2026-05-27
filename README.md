@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When one door closes another door opens."</i><br>
-  <b>— Alexander Graham Bell</b>
+  <i>"If you can't explain it simply, you don't understand it well enough."</i><br>
+  <b>— Albert Einstein</b>
 </p>
 <!--END_SECTION:quote-->
 
