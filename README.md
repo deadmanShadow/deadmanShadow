@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you can't explain it simply, you don't understand it well enough."</i><br>
-  <b>— Albert Einstein</b>
+  <i>"In order to be irreplaceable, one must always be different."</i><br>
+  <b>— Coco Chanel</b>
 </p>
 <!--END_SECTION:quote-->
 
