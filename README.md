@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A life without a cause is a life without effect."</i><br>
-  <b>— Paulo Coelho</b>
+  <i>"Thinking is difficult, that's why most people judge."</i><br>
+  <b>— Carl Jung</b>
 </p>
 <!--END_SECTION:quote-->
 
