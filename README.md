@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"In order to be irreplaceable, one must always be different."</i><br>
-  <b>— Coco Chanel</b>
+  <i>"A life without a cause is a life without effect."</i><br>
+  <b>— Paulo Coelho</b>
 </p>
 <!--END_SECTION:quote-->
 
