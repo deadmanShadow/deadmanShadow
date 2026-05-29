@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Thinking is difficult, that's why most people judge."</i><br>
-  <b>— Carl Jung</b>
+  <i>"It takes 20 years to build a reputation and five minutes to ruin it."</i><br>
+  <b>— Warren Buffett</b>
 </p>
 <!--END_SECTION:quote-->
 
