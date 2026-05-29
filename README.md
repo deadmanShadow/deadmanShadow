@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It takes 20 years to build a reputation and five minutes to ruin it."</i><br>
-  <b>— Warren Buffett</b>
+  <i>"The best way out is always through."</i><br>
+  <b>— Robert Frost</b>
 </p>
 <!--END_SECTION:quote-->
 
