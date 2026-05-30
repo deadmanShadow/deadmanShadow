@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The best way out is always through."</i><br>
-  <b>— Robert Frost</b>
+  <i>"Strategy is a commodity, execution is an art."</i><br>
+  <b>— Peter Drucker</b>
 </p>
 <!--END_SECTION:quote-->
 
