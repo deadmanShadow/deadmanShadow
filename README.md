@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Strategy is a commodity, execution is an art."</i><br>
-  <b>— Peter Drucker</b>
+  <i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i><br>
+  <b>— Osho</b>
 </p>
 <!--END_SECTION:quote-->
 
