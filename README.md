@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Some of your greatest lessons come from your darkest moments."</i><br>
-  <b>— Roger Lee</b>
+  <i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i><br>
+  <b>— Alexandre Dumas</b>
 </p>
 <!--END_SECTION:quote-->
 
