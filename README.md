@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i><br>
-  <b>— Osho</b>
+  <i>"Some of your greatest lessons come from your darkest moments."</i><br>
+  <b>— Roger Lee</b>
 </p>
 <!--END_SECTION:quote-->
 
