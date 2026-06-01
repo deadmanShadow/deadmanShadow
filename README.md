@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i><br>
-  <b>— Alexandre Dumas</b>
+  <i>"The glow of one warm thought is to me worth more than money."</i><br>
+  <b>— Thomas Jefferson</b>
 </p>
 <!--END_SECTION:quote-->
 
