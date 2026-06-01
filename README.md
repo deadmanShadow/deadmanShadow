@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The glow of one warm thought is to me worth more than money."</i><br>
-  <b>— Thomas Jefferson</b>
+  <i>"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</i><br>
+  <b>— Helen Keller</b>
 </p>
 <!--END_SECTION:quote-->
 
