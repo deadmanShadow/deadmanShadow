@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Know yourself and you will win all battles."</i><br>
-  <b>— Sun Tzu</b>
+  <i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i><br>
+  <b>— Sathya Sai Baba</b>
 </p>
 <!--END_SECTION:quote-->
 
