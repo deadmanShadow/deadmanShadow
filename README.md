@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i><br>
-  <b>— Amelia Earhart</b>
+  <i>"Hope is a waking dream."</i><br>
+  <b>— Aristotle</b>
 </p>
 <!--END_SECTION:quote-->
 
