@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i><br>
-  <b>— Sathya Sai Baba</b>
+  <i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i><br>
+  <b>— Amelia Earhart</b>
 </p>
 <!--END_SECTION:quote-->
 
