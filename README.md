@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Selfishness and greed, individual or national, cause most of our troubles."</i><br>
-  <b>— Harry S. Truman</b>
+  <i>"In order to be irreplaceable, one must always be different."</i><br>
+  <b>— Coco Chanel</b>
 </p>
 <!--END_SECTION:quote-->
 
