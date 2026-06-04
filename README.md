@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Hope is a waking dream."</i><br>
-  <b>— Aristotle</b>
+  <i>"Selfishness and greed, individual or national, cause most of our troubles."</i><br>
+  <b>— Harry S. Truman</b>
 </p>
 <!--END_SECTION:quote-->
 
