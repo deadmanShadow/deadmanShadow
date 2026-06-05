@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i><br>
-  <b>— Albert Einstein</b>
+  <i>"Follow the man who seeks the truth; run from the man who has found it."</i><br>
+  <b>— Vaclav Havel</b>
 </p>
 <!--END_SECTION:quote-->
 
