@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"In order to be irreplaceable, one must always be different."</i><br>
-  <b>— Coco Chanel</b>
+  <i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i><br>
+  <b>— Albert Einstein</b>
 </p>
 <!--END_SECTION:quote-->
 
