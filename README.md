@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If they wrote it to make money, don't read it."</i><br>
-  <b>— Naval Ravikant</b>
+  <i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i><br>
+  <b>— Henry Ford</b>
 </p>
 <!--END_SECTION:quote-->
 
