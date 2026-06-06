@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Follow the man who seeks the truth; run from the man who has found it."</i><br>
-  <b>— Vaclav Havel</b>
+  <i>"If they wrote it to make money, don't read it."</i><br>
+  <b>— Naval Ravikant</b>
 </p>
 <!--END_SECTION:quote-->
 
