@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Never put off to tomorrow what you can do to-day."</i><br>
-  <b>— Thomas Jefferson</b>
+  <i>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</i><br>
+  <b>— Barack Obama</b>
 </p>
 <!--END_SECTION:quote-->
 
