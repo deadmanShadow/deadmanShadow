@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i><br>
-  <b>— Tony Robbins</b>
+  <i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
