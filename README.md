@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</i><br>
-  <b>— Barack Obama</b>
+  <i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i><br>
+  <b>— Tony Robbins</b>
 </p>
 <!--END_SECTION:quote-->
 
