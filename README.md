@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward."</i><br>
-  <b>— Unknown</b>
+  <i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i><br>
+  <b>— Robert Kiyosaki</b>
 </p>
 <!--END_SECTION:quote-->
 
