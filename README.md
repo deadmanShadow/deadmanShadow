@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i><br>
-  <b>— Robert Kiyosaki</b>
+  <i>"It is better to fail in originality than to succeed in imitation."</i><br>
+  <b>— Herman Melville</b>
 </p>
 <!--END_SECTION:quote-->
 
