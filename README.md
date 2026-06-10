@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It is better to fail in originality than to succeed in imitation."</i><br>
-  <b>— Herman Melville</b>
+  <i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i><br>
+  <b>— Bruce Lee</b>
 </p>
 <!--END_SECTION:quote-->
 
