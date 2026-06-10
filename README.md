@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i><br>
-  <b>— Bruce Lee</b>
+  <i>"A mountain never yields to the wind no matter how strong it is."</i><br>
+  <b>— Zen Proverb</b>
 </p>
 <!--END_SECTION:quote-->
 
