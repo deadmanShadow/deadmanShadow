@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i><br>
-  <b>— Joyce Meyer</b>
+  <i>"If you done it, it ain't bragging."</i><br>
+  <b>— Walt Whitman</b>
 </p>
 <!--END_SECTION:quote-->
 
