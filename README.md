@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A mountain never yields to the wind no matter how strong it is."</i><br>
-  <b>— Zen Proverb</b>
+  <i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i><br>
+  <b>— Joyce Meyer</b>
 </p>
 <!--END_SECTION:quote-->
 
