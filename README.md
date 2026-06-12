@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you done it, it ain't bragging."</i><br>
-  <b>— Walt Whitman</b>
+  <i>"Confuse them with your silence and amaze them with your actions."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
