@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Confuse them with your silence and amaze them with your actions."</i><br>
-  <b>— Unknown</b>
+  <i>"When things are a disappointment, try not to be so discouraged."</i><br>
+  <b>— Carol Burnett</b>
 </p>
 <!--END_SECTION:quote-->
 
