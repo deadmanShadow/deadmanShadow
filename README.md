@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When things are a disappointment, try not to be so discouraged."</i><br>
-  <b>— Carol Burnett</b>
+  <i>"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."</i><br>
+  <b>— Billie Jean King</b>
 </p>
 <!--END_SECTION:quote-->
 
