@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Enjoy life. There's plenty of time to be dead."</i><br>
-  <b>— Hans Christian Andersen</b>
+  <i>"If you carry joy in your heart, you can heal any moment."</i><br>
+  <b>— Neale Donald Walsch</b>
 </p>
 <!--END_SECTION:quote-->
 
