@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The trouble with the rat race is that even if you win, you're still a rat."</i><br>
-  <b>— Lily Tomlin</b>
+  <i>"Enjoy life. There's plenty of time to be dead."</i><br>
+  <b>— Hans Christian Andersen</b>
 </p>
 <!--END_SECTION:quote-->
 
