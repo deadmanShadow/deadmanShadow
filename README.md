@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Take good advice, make sure it is good advice, then do it your way."</i><br>
-  <b>— Vidal Sassoon</b>
+  <i>"The grass is greener where you water it."</i><br>
+  <b>— Neil Barringham</b>
 </p>
 <!--END_SECTION:quote-->
 
