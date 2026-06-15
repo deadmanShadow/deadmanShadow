@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you carry joy in your heart, you can heal any moment."</i><br>
-  <b>— Neale Donald Walsch</b>
+  <i>"Take good advice, make sure it is good advice, then do it your way."</i><br>
+  <b>— Vidal Sassoon</b>
 </p>
 <!--END_SECTION:quote-->
 
