@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The grass is greener where you water it."</i><br>
-  <b>— Neil Barringham</b>
+  <i>"Every experience is a lesson. Every loss is a gain."</i><br>
+  <b>— Sathya Sai Baba</b>
 </p>
 <!--END_SECTION:quote-->
 
