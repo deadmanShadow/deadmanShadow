@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Every experience is a lesson. Every loss is a gain."</i><br>
-  <b>— Sathya Sai Baba</b>
+  <i>"I've always tried to go a step past wherever people expected me to end up."</i><br>
+  <b>— Beverly Sills</b>
 </p>
 <!--END_SECTION:quote-->
 
