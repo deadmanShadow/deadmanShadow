@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Courage is fear that has said its prayers and decided to go forward anyway."</i><br>
-  <b>— Joyce Meyer</b>
+  <i>"The quieter you become, the more you are able to hear."</i><br>
+  <b>— Rumi</b>
 </p>
 <!--END_SECTION:quote-->
 
