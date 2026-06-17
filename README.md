@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I've always tried to go a step past wherever people expected me to end up."</i><br>
-  <b>— Beverly Sills</b>
+  <i>"Courage is fear that has said its prayers and decided to go forward anyway."</i><br>
+  <b>— Joyce Meyer</b>
 </p>
 <!--END_SECTION:quote-->
 
