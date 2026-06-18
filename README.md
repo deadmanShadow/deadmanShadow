@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i><br>
-  <b>— Rumi</b>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>— Cory House</b>
 </p>
 <!--END_SECTION:quote-->
 
