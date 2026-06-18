@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  <b>— Cory House</b>
+  <i>"Life is a question and how we live it is our answer."</i><br>
+  <b>— Gary Keller</b>
 </p>
 <!--END_SECTION:quote-->
 
