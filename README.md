@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i><br>
-  <b>— Alexander Graham Bell</b>
+  <i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i><br>
+  <b>— Oprah Winfrey</b>
 </p>
 <!--END_SECTION:quote-->
 
