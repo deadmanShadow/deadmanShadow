@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i><br>
-  <b>— Oprah Winfrey</b>
+  <i>"As a man thinketh in his heart, so shall he be."</i><br>
+  <b>— James Allen</b>
 </p>
 <!--END_SECTION:quote-->
 
