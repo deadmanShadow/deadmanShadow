@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"As a man thinketh in his heart, so shall he be."</i><br>
-  <b>— James Allen</b>
+  <i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i><br>
+  <b>— Celestine Chua</b>
 </p>
 <!--END_SECTION:quote-->
 
