@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i><br>
-  <b>— Celestine Chua</b>
+  <i>"Wheels of justice grind slow but grind fine."</i><br>
+  <b>— Sun Tzu</b>
 </p>
 <!--END_SECTION:quote-->
 
