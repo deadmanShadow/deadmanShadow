@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Wheels of justice grind slow but grind fine."</i><br>
-  <b>— Sun Tzu</b>
+  <i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i><br>
+  <b>— Jim Rohn</b>
 </p>
 <!--END_SECTION:quote-->
 
