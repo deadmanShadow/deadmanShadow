@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i><br>
-  <b>— Jim Rohn</b>
+  <i>"We're responsible for everything that happens to us."</i><br>
+  <b>— Yanni</b>
 </p>
 <!--END_SECTION:quote-->
 
