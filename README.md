@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"We're responsible for everything that happens to us."</i><br>
-  <b>— Yanni</b>
+  <i>"Love is not about possession. Love is about appreciation."</i><br>
+  <b>— Osho</b>
 </p>
 <!--END_SECTION:quote-->
 
