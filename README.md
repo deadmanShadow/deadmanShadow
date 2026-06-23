@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i><br>
-  <b>— Yanni</b>
+  <i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i><br>
+  <b>— Dalai Lama</b>
 </p>
 <!--END_SECTION:quote-->
 
