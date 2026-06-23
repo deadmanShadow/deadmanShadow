@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Love is not about possession. Love is about appreciation."</i><br>
-  <b>— Osho</b>
+  <i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i><br>
+  <b>— Yanni</b>
 </p>
 <!--END_SECTION:quote-->
 
