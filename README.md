@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Distant water does not put out a nearby fire."</i><br>
-  <b>— Chinese Proverb</b>
+  <i>"If you cannot control your emotions, you cannot control your money."</i><br>
+  <b>— Warren Buffett</b>
 </p>
 <!--END_SECTION:quote-->
 
