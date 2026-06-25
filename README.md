@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you cannot control your emotions, you cannot control your money."</i><br>
-  <b>— Warren Buffett</b>
+  <i>"The least deviation from truth will be multiplied later."</i><br>
+  <b>— Aristotle</b>
 </p>
 <!--END_SECTION:quote-->
 
