@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The least deviation from truth will be multiplied later."</i><br>
-  <b>— Aristotle</b>
+  <i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i><br>
+  <b>— Toni Morrison</b>
 </p>
 <!--END_SECTION:quote-->
 
