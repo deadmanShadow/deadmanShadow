@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Learn from the rejection and turn it into an opportunity!"</i><br>
-  <b>— Mary Engelbreit</b>
+  <i>"Those who seek the easy way do not seek the true way."</i><br>
+  <b>— Dogen</b>
 </p>
 <!--END_SECTION:quote-->
 
