@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i><br>
-  <b>— Toni Morrison</b>
+  <i>"Learn from the rejection and turn it into an opportunity!"</i><br>
+  <b>— Mary Engelbreit</b>
 </p>
 <!--END_SECTION:quote-->
 
