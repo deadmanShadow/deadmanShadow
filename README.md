@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Every time we liberate a woman, we liberate a man."</i><br>
-  <b>— Margaret Mead</b>
+  <i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i><br>
+  <b>— Jack London</b>
 </p>
 <!--END_SECTION:quote-->
 
