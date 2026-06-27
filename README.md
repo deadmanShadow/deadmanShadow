@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Those who seek the easy way do not seek the true way."</i><br>
-  <b>— Dogen</b>
+  <i>"Every time we liberate a woman, we liberate a man."</i><br>
+  <b>— Margaret Mead</b>
 </p>
 <!--END_SECTION:quote-->
 
