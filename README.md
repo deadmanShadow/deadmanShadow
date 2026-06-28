@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i><br>
-  <b>— Jack London</b>
+  <i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i><br>
+  <b>— Anita Krizzan</b>
 </p>
 <!--END_SECTION:quote-->
 
