@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There is nothing like looking if you want to find something."</i><br>
-  <b>— J.R.R. Tolkien</b>
+  <i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i><br>
+  <b>— Confucius</b>
 </p>
 <!--END_SECTION:quote-->
 
