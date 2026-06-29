@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i><br>
-  <b>— Anita Krizzan</b>
+  <i>"There is nothing like looking if you want to find something."</i><br>
+  <b>— J.R.R. Tolkien</b>
 </p>
 <!--END_SECTION:quote-->
 
