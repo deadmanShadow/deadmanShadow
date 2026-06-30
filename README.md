@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Don't be afraid to go slowly. Be afraid of stopping."</i><br>
-  <b>— Zen Proverb</b>
+  <i>"It's possible in ways both large or small to make a difference in someone's life."</i><br>
+  <b>— Yanni</b>
 </p>
 <!--END_SECTION:quote-->
 
