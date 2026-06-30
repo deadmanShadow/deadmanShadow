@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i><br>
-  <b>— Confucius</b>
+  <i>"Don't be afraid to go slowly. Be afraid of stopping."</i><br>
+  <b>— Zen Proverb</b>
 </p>
 <!--END_SECTION:quote-->
 
