@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"People who say it cannot be done should not interrupt those who are doing it."</i><br>
-  <b>— George Bernard Shaw</b>
+  <i>"If you correct your mind, the rest of your life will fall into place."</i><br>
+  <b>— Lao Tzu</b>
 </p>
 <!--END_SECTION:quote-->
 
