@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It's possible in ways both large or small to make a difference in someone's life."</i><br>
-  <b>— Yanni</b>
+  <i>"People who say it cannot be done should not interrupt those who are doing it."</i><br>
+  <b>— George Bernard Shaw</b>
 </p>
 <!--END_SECTION:quote-->
 
