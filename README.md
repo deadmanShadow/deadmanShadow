@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you correct your mind, the rest of your life will fall into place."</i><br>
-  <b>— Lao Tzu</b>
+  <i>"There is no such thing as a great talent without great willpower."</i><br>
+  <b>— Honore de Balzac</b>
 </p>
 <!--END_SECTION:quote-->
 
