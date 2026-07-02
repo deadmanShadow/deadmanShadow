@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There is no such thing as a great talent without great willpower."</i><br>
-  <b>— Honore de Balzac</b>
+  <i>"An ounce of performance is worth pounds of promises."</i><br>
+  <b>— Mae West</b>
 </p>
 <!--END_SECTION:quote-->
 
