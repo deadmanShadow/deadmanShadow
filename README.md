@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"An ounce of performance is worth pounds of promises."</i><br>
-  <b>— Mae West</b>
+  <i>"Projecting your mind into a successful situation is the most powerful means to achieve goals."</i><br>
+  <b>— Estee Lauder</b>
 </p>
 <!--END_SECTION:quote-->
 
