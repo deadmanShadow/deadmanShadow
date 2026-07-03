@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Projecting your mind into a successful situation is the most powerful means to achieve goals."</i><br>
-  <b>— Estee Lauder</b>
+  <i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i><br>
+  <b>— Charles Spurgeon</b>
 </p>
 <!--END_SECTION:quote-->
 
