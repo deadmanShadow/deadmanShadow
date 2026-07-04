@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i><br>
-  <b>— Charles Spurgeon</b>
+  <i>"Watch what you say, and whatever you say, practice it."</i><br>
+  <b>— Soyen Shaku</b>
 </p>
 <!--END_SECTION:quote-->
 
