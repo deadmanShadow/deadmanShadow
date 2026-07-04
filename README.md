@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Watch what you say, and whatever you say, practice it."</i><br>
-  <b>— Soyen Shaku</b>
+  <i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i><br>
+  <b>— Stephen Hawking</b>
 </p>
 <!--END_SECTION:quote-->
 
