@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The idea of ourselves is our escape from the fact of what we really are."</i><br>
-  <b>— Jiddu Krishnamurti</b>
+  <i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i><br>
+  <b>— Albert Einstein</b>
 </p>
 <!--END_SECTION:quote-->
 
