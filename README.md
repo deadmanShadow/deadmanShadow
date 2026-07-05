@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i><br>
-  <b>— Stephen Hawking</b>
+  <i>"The idea of ourselves is our escape from the fact of what we really are."</i><br>
+  <b>— Jiddu Krishnamurti</b>
 </p>
 <!--END_SECTION:quote-->
 
