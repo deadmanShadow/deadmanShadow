@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Your gift is something that you can do innately better than anything else."</i><br>
-  <b>— Steve Harvey</b>
+  <i>"It's possible in ways both large or small to make a difference in someone's life."</i><br>
+  <b>— Yanni</b>
 </p>
 <!--END_SECTION:quote-->
 
