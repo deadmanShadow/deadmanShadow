@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i><br>
-  <b>— Albert Einstein</b>
+  <i>"Your gift is something that you can do innately better than anything else."</i><br>
+  <b>— Steve Harvey</b>
 </p>
 <!--END_SECTION:quote-->
 
