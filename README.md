@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Never allow a person to tell you no who doesn't have the power to say yes."</i><br>
-  <b>— Eleanor Roosevelt</b>
+  <i>"Sometimes a change of perspective is all it takes to see the light."</i><br>
+  <b>— Dan Brown</b>
 </p>
 <!--END_SECTION:quote-->
 
