@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It's possible in ways both large or small to make a difference in someone's life."</i><br>
-  <b>— Yanni</b>
+  <i>"Never allow a person to tell you no who doesn't have the power to say yes."</i><br>
+  <b>— Eleanor Roosevelt</b>
 </p>
 <!--END_SECTION:quote-->
 
