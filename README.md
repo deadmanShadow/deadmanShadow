@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Sometimes a change of perspective is all it takes to see the light."</i><br>
-  <b>— Dan Brown</b>
+  <i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i><br>
+  <b>— Charles Dickens</b>
 </p>
 <!--END_SECTION:quote-->
 
