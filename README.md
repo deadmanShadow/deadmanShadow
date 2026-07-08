@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i><br>
-  <b>— Charles Dickens</b>
+  <i>"The most effective way to do it, is to do it."</i><br>
+  <b>— Amelia Earhart</b>
 </p>
 <!--END_SECTION:quote-->
 
