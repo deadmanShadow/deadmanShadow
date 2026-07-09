@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company."</i><br>
-  <b>— George Washington</b>
+  <i>"Do all things with love."</i><br>
+  <b>— Og Mandino</b>
 </p>
 <!--END_SECTION:quote-->
 
