@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The most effective way to do it, is to do it."</i><br>
-  <b>— Amelia Earhart</b>
+  <i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company."</i><br>
+  <b>— George Washington</b>
 </p>
 <!--END_SECTION:quote-->
 
