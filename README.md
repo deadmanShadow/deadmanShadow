@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"At every moment where language can't go, that's your mind."</i><br>
-  <b>— Bodhidharma</b>
+  <i>"Quality is not an act, it is a habit."</i><br>
+  <b>— Colin R. Davis</b>
 </p>
 <!--END_SECTION:quote-->
 
