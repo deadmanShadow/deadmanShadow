@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Do all things with love."</i><br>
-  <b>— Og Mandino</b>
+  <i>"At every moment where language can't go, that's your mind."</i><br>
+  <b>— Bodhidharma</b>
 </p>
 <!--END_SECTION:quote-->
 
