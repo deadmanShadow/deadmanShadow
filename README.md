@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Quality is not an act, it is a habit."</i><br>
-  <b>— Colin R. Davis</b>
+  <i>"Life is the dancer and you are the dance."</i><br>
+  <b>— Eckhart Tolle</b>
 </p>
 <!--END_SECTION:quote-->
 
