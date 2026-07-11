@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Life is the dancer and you are the dance."</i><br>
-  <b>— Eckhart Tolle</b>
+  <i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i><br>
+  <b>— Henry Ward Beecher</b>
 </p>
 <!--END_SECTION:quote-->
 
