@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i><br>
-  <b>— Henry Ward Beecher</b>
+  <i>"They who have conquered doubt and fear have conquered failure."</i><br>
+  <b>— James Allen</b>
 </p>
 <!--END_SECTION:quote-->
 
