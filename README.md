@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"They who have conquered doubt and fear have conquered failure."</i><br>
-  <b>— James Allen</b>
+  <i>"I skate to where the puck is going to be, not where it has been."</i><br>
+  <b>— Wayne Gretzky</b>
 </p>
 <!--END_SECTION:quote-->
 
