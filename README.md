@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I skate to where the puck is going to be, not where it has been."</i><br>
-  <b>— Wayne Gretzky</b>
+  <i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i><br>
+  <b>— Jim Rohn</b>
 </p>
 <!--END_SECTION:quote-->
 
