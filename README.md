@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It is never too late to be what you might have been."</i><br>
-  <b>— George Eliot</b>
+  <i>"A good salesman is like a good cook—he can create an appetite when the buyer isn't hungry."</i><br>
+  <b>— George Lorimer</b>
 </p>
 <!--END_SECTION:quote-->
 
