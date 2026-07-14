@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"How people treat you is their karma; how you react is yours."</i><br>
-  <b>— Wayne Dyer</b>
+  <i>"It is never too late to be what you might have been."</i><br>
+  <b>— George Eliot</b>
 </p>
 <!--END_SECTION:quote-->
 
