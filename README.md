@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"He who violates another's honor loses his own."</i><br>
-  <b>— Publilius Syrus</b>
+  <i>"Your world is a living expression of how you are using and have used your mind."</i><br>
+  <b>— Earl Nightingale</b>
 </p>
 <!--END_SECTION:quote-->
 
