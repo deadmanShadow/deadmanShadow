@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Make failure your teacher, not your undertaker."</i><br>
-  <b>— Zig Ziglar</b>
+  <i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i><br>
+  <b>— Toni Morrison</b>
 </p>
 <!--END_SECTION:quote-->
 
