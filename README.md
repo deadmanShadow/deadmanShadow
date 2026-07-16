@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Your world is a living expression of how you are using and have used your mind."</i><br>
-  <b>— Earl Nightingale</b>
+  <i>"Make failure your teacher, not your undertaker."</i><br>
+  <b>— Zig Ziglar</b>
 </p>
 <!--END_SECTION:quote-->
 
