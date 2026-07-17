@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i><br>
-  <b>— Toni Morrison</b>
+  <i>"A man is but a product of his thoughts. What he thinks he becomes."</i><br>
+  <b>— Mahatma Gandhi</b>
 </p>
 <!--END_SECTION:quote-->
 
