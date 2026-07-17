@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A man is but a product of his thoughts. What he thinks he becomes."</i><br>
-  <b>— Mahatma Gandhi</b>
+  <i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i><br>
+  <b>— Helen Keller</b>
 </p>
 <!--END_SECTION:quote-->
 
