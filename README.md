@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i><br>
-  <b>— Dogen</b>
+  <i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i><br>
+  <b>— Sydney Smith</b>
 </p>
 <!--END_SECTION:quote-->
 
