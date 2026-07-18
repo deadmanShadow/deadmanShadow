@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i><br>
-  <b>— Helen Keller</b>
+  <i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i><br>
+  <b>— Dogen</b>
 </p>
 <!--END_SECTION:quote-->
 
