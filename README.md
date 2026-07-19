@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Do every act of your life as if it were your last."</i><br>
-  <b>— Marcus Aurelius</b>
+  <i>"Failure is not fatal, but failure to change might be."</i><br>
+  <b>— John Wooden</b>
 </p>
 <!--END_SECTION:quote-->
 
