@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Failure is not fatal, but failure to change might be."</i><br>
-  <b>— John Wooden</b>
+  <i>"You may forget with whom you laughed, but you will never forget with whom you wept."</i><br>
+  <b>— Kahlil Gibran</b>
 </p>
 <!--END_SECTION:quote-->
 
