@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You may forget with whom you laughed, but you will never forget with whom you wept."</i><br>
-  <b>— Kahlil Gibran</b>
+  <i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i><br>
+  <b>— F. Scott Fitzgerald</b>
 </p>
 <!--END_SECTION:quote-->
 
