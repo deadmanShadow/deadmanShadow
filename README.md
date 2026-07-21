@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Failure is feedback. Learn from it and move on."</i><br>
-  <b>— Jack Butcher</b>
+  <i>"No one ever said life was fair. Just Eventful."</i><br>
+  <b>— Carol Burnett</b>
 </p>
 <!--END_SECTION:quote-->
 
