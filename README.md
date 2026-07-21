@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i><br>
-  <b>— F. Scott Fitzgerald</b>
+  <i>"Failure is feedback. Learn from it and move on."</i><br>
+  <b>— Jack Butcher</b>
 </p>
 <!--END_SECTION:quote-->
 
