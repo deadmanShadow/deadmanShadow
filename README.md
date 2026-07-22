@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i><br>
-  <b>— Dan Millman</b>
+  <i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i><br>
+  <b>— Stephen Hawking</b>
 </p>
 <!--END_SECTION:quote-->
 
