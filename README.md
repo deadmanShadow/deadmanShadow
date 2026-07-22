@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"No one ever said life was fair. Just Eventful."</i><br>
-  <b>— Carol Burnett</b>
+  <i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i><br>
+  <b>— Dan Millman</b>
 </p>
 <!--END_SECTION:quote-->
 
