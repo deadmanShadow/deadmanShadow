@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i><br>
-  <b>— Henry David Thoreau</b>
+  <i>"To live is to be willing to die over and over again."</i><br>
+  <b>— Pema Chodron</b>
 </p>
 <!--END_SECTION:quote-->
 
