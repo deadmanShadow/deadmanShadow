@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i><br>
-  <b>— Stephen Hawking</b>
+  <i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i><br>
+  <b>— Henry David Thoreau</b>
 </p>
 <!--END_SECTION:quote-->
 
