@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"To live is to be willing to die over and over again."</i><br>
-  <b>— Pema Chodron</b>
+  <i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i><br>
+  <b>— Norman Vincent Peale</b>
 </p>
 <!--END_SECTION:quote-->
 
