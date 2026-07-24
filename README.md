@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i><br>
-  <b>— Norman Vincent Peale</b>
+  <i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</i><br>
+  <b>— Maxime Lagace</b>
 </p>
 <!--END_SECTION:quote-->
 
