@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Imagination is the beginning of creation."</i><br>
-  <b>— George Bernard Shaw</b>
+  <i>"To handle yourself, use your head; to handle others, use your heart."</i><br>
+  <b>— Eleanor Roosevelt</b>
 </p>
 <!--END_SECTION:quote-->
 
