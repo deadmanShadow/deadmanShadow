@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</i><br>
-  <b>— Maxime Lagace</b>
+  <i>"Imagination is the beginning of creation."</i><br>
+  <b>— George Bernard Shaw</b>
 </p>
 <!--END_SECTION:quote-->
 
