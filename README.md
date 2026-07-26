@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Chop your own wood and it will warm you twice."</i><br>
-  <b>— Henry Ford</b>
+  <i>"The person who never made a mistake never tried anything new."</i><br>
+  <b>— Albert Einstein</b>
 </p>
 <!--END_SECTION:quote-->
 
