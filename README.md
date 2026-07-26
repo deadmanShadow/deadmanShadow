@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"To handle yourself, use your head; to handle others, use your heart."</i><br>
-  <b>— Eleanor Roosevelt</b>
+  <i>"Chop your own wood and it will warm you twice."</i><br>
+  <b>— Henry Ford</b>
 </p>
 <!--END_SECTION:quote-->
 
