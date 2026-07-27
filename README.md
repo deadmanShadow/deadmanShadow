@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The person who never made a mistake never tried anything new."</i><br>
-  <b>— Albert Einstein</b>
+  <i>"Everything begins with an idea."</i><br>
+  <b>— Earl Nightingale</b>
 </p>
 <!--END_SECTION:quote-->
 
