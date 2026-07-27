@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Everything begins with an idea."</i><br>
-  <b>— Earl Nightingale</b>
+  <i>"No great discovery was ever made without a bold guess."</i><br>
+  <b>— Isaac Newton</b>
 </p>
 <!--END_SECTION:quote-->
 
