@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"No great discovery was ever made without a bold guess."</i><br>
-  <b>— Isaac Newton</b>
+  <i>"In the midst of chaos, there is also opportunity."</i><br>
+  <b>— Sun Tzu</b>
 </p>
 <!--END_SECTION:quote-->
 
