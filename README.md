@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"In the midst of chaos, there is also opportunity."</i><br>
-  <b>— Sun Tzu</b>
+  <i>"You can calculate the worth of a man by the number of his enemies."</i><br>
+  <b>— Gustave Flaubert</b>
 </p>
 <!--END_SECTION:quote-->
 
