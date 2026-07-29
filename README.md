@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You can calculate the worth of a man by the number of his enemies."</i><br>
-  <b>— Gustave Flaubert</b>
+  <i>"The wise pursue wisdom, the dull follow in blind faith."</i><br>
+  <b>— Tibetan Proverb</b>
 </p>
 <!--END_SECTION:quote-->
 
