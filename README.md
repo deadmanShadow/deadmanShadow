@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The wise pursue wisdom, the dull follow in blind faith."</i><br>
-  <b>— Tibetan Proverb</b>
+  <i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i><br>
+  <b>— Dan Millman</b>
 </p>
 <!--END_SECTION:quote-->
 
