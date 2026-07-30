@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Nothing is easier than fault finding."</i><br>
-  <b>— Og Mandino</b>
+  <i>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</i><br>
+  <b>— Andrew Carnegie</b>
 </p>
 <!--END_SECTION:quote-->
 
