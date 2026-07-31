@@ -6,7 +6,7 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</i><br>
+  <i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i><br>
   <b>— Andrew Carnegie</b>
 </p>
 <!--END_SECTION:quote-->
