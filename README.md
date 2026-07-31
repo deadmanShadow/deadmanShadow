@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i><br>
-  <b>— Andrew Carnegie</b>
+  <i>"Where we fall are the stepping-stones for our journey."</i><br>
+  <b>— Lolly Daskal</b>
 </p>
 <!--END_SECTION:quote-->
 
