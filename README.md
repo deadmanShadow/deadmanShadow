@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Where we fall are the stepping-stones for our journey."</i><br>
-  <b>— Lolly Daskal</b>
+  <i>"The attempt to escape from pain, is what creates more pain."</i><br>
+  <b>— Gabor Mate</b>
 </p>
 <!--END_SECTION:quote-->
 
