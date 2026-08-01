@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The attempt to escape from pain, is what creates more pain."</i><br>
-  <b>— Gabor Mate</b>
+  <i>"Life is a journey, not a destination."</i><br>
+  <b>— Dan Millman</b>
 </p>
 <!--END_SECTION:quote-->
 
