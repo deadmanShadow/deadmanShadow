@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"What people need and what they want may be very different."</i><br>
-  <b>— Elbert Hubbard</b>
+  <i>"What you seek is seeking you."</i><br>
+  <b>— Rumi</b>
 </p>
 <!--END_SECTION:quote-->
 
