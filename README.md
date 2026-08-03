@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i><br>
-  <b>— Leonardo da Vinci</b>
+  <i>"Take away love and our earth is a tomb."</i><br>
+  <b>— Robert Browning</b>
 </p>
 <!--END_SECTION:quote-->
 
