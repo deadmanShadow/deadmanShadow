@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"What you seek is seeking you."</i><br>
-  <b>— Rumi</b>
+  <i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i><br>
+  <b>— Leonardo da Vinci</b>
 </p>
 <!--END_SECTION:quote-->
 
