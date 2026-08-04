@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</i><br>
-  <b>— Lao Tzu</b>
+  <i>"Desire for the fruits of work must never be your motive in working."</i><br>
+  <b>— Bhagavad Gita</b>
 </p>
 <!--END_SECTION:quote-->
 
