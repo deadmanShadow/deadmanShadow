@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Desire for the fruits of work must never be your motive in working."</i><br>
-  <b>— Bhagavad Gita</b>
+  <i>"Heart is what separates the good from the great."</i><br>
+  <b>— Michael Jordan</b>
 </p>
 <!--END_SECTION:quote-->
 
