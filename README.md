@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Heart is what separates the good from the great."</i><br>
-  <b>— Michael Jordan</b>
+  <i>"There is always risk, so learn to manage risk instead of avoiding it."</i><br>
+  <b>— Robert Kiyosaki</b>
 </p>
 <!--END_SECTION:quote-->
 
