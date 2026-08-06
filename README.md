@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The strength of a wall is neither greater nor less than the courage of the men who defend it."</i><br>
-  <b>— Genghis Khan</b>
+  <i>"Throw your heart over the fence and the rest will follow"</i><br>
+  <b>— Norman Vincent Peale</b>
 </p>
 <!--END_SECTION:quote-->
 
