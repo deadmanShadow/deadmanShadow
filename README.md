@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There is always risk, so learn to manage risk instead of avoiding it."</i><br>
-  <b>— Robert Kiyosaki</b>
+  <i>"The strength of a wall is neither greater nor less than the courage of the men who defend it."</i><br>
+  <b>— Genghis Khan</b>
 </p>
 <!--END_SECTION:quote-->
 
