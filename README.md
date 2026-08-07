@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i><br>
-  <b>— Laurence J. Peter</b>
+  <i>"The score never interested me, only the game."</i><br>
+  <b>— Mae West</b>
 </p>
 <!--END_SECTION:quote-->
 
