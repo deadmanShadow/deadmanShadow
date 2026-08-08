@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The score never interested me, only the game."</i><br>
-  <b>— Mae West</b>
+  <i>"Sometimes you will never know the value of something, until it becomes a memory."</i><br>
+  <b>— Dr. Seuss</b>
 </p>
 <!--END_SECTION:quote-->
 
