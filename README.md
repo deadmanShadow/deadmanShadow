@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Sometimes you will never know the value of something, until it becomes a memory."</i><br>
-  <b>— Dr. Seuss</b>
+  <i>"To be able to forget means sanity."</i><br>
+  <b>— Jack London</b>
 </p>
 <!--END_SECTION:quote-->
 
