@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"To be able to forget means sanity."</i><br>
-  <b>— Jack London</b>
+  <i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i><br>
+  <b>— Sydney Smith</b>
 </p>
 <!--END_SECTION:quote-->
 
