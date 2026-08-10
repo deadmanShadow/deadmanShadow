@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Always forgive your enemies - nothing annoys them so much."</i><br>
-  <b>— Oscar Wilde</b>
+  <i>"Charms strike the sight, but merit wins the soul."</i><br>
+  <b>— Alexander Pope</b>
 </p>
 <!--END_SECTION:quote-->
 
