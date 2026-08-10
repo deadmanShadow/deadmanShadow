@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Charms strike the sight, but merit wins the soul."</i><br>
-  <b>— Alexander Pope</b>
+  <i>"Few things are more deceptive than memories."</i><br>
+  <b>— Carlos Ruiz Zafon</b>
 </p>
 <!--END_SECTION:quote-->
 
