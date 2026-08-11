@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Few things are more deceptive than memories."</i><br>
-  <b>— Carlos Ruiz Zafon</b>
+  <i>"To live is the rarest thing in the world. Most people exist, that is all."</i><br>
+  <b>— Oscar Wilde</b>
 </p>
 <!--END_SECTION:quote-->
 
