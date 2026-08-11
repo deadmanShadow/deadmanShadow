@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"To live is the rarest thing in the world. Most people exist, that is all."</i><br>
-  <b>— Oscar Wilde</b>
+  <i>"Our joy does not have to be based on our circumstances."</i><br>
+  <b>— Joyce Meyer</b>
 </p>
 <!--END_SECTION:quote-->
 
