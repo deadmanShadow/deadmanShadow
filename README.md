@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Our joy does not have to be based on our circumstances."</i><br>
-  <b>— Joyce Meyer</b>
+  <i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i><br>
+  <b>— Lao Tzu</b>
 </p>
 <!--END_SECTION:quote-->
 
