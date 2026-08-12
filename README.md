@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i><br>
-  <b>— Lao Tzu</b>
+  <i>"Failure shows us the way — by showing us what isn't the way."</i><br>
+  <b>— Ryan Holiday</b>
 </p>
 <!--END_SECTION:quote-->
 
