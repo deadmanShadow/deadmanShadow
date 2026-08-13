@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Nothing endures but change."</i><br>
-  <b>— Heraclitus</b>
+  <i>"Do not pray for an easy life, pray for the strength to endure a difficult one."</i><br>
+  <b>— Bruce Lee</b>
 </p>
 <!--END_SECTION:quote-->
 
