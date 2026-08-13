@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Failure shows us the way — by showing us what isn't the way."</i><br>
-  <b>— Ryan Holiday</b>
+  <i>"Nothing endures but change."</i><br>
+  <b>— Heraclitus</b>
 </p>
 <!--END_SECTION:quote-->
 
