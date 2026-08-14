@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i><br>
-  <b>— John D. Rockefeller</b>
+  <i>"Our joy does not have to be based on our circumstances."</i><br>
+  <b>— Joyce Meyer</b>
 </p>
 <!--END_SECTION:quote-->
 
