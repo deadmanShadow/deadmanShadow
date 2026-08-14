@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Do not pray for an easy life, pray for the strength to endure a difficult one."</i><br>
-  <b>— Bruce Lee</b>
+  <i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i><br>
+  <b>— John D. Rockefeller</b>
 </p>
 <!--END_SECTION:quote-->
 
