@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you aim at nothing, you will hit it every time."</i><br>
-  <b>— Zig Ziglar</b>
+  <i>"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes."</i><br>
+  <b>— Alfred Adler</b>
 </p>
 <!--END_SECTION:quote-->
 
