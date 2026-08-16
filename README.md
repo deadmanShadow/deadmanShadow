@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Nothing is permanent in this wicked world - not even our troubles."</i><br>
-  <b>— Charlie Chaplin</b>
+  <i>"If you aim at nothing, you will hit it every time."</i><br>
+  <b>— Zig Ziglar</b>
 </p>
 <!--END_SECTION:quote-->
 
