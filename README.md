@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Circumstances rule men; men do not rule circumstances."</i><br>
-  <b>— Herodotus</b>
+  <i>"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it."</i><br>
+  <b>— Josh Waitzkin</b>
 </p>
 <!--END_SECTION:quote-->
 
