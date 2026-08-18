@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Character is doing what you don't want to do but know you should do."</i><br>
-  <b>— Joyce Meyer</b>
+  <i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i><br>
+  <b>— Theodore Roosevelt</b>
 </p>
 <!--END_SECTION:quote-->
 
