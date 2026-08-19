@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Kindness is a language which the deaf can hear and the blind can see."</i><br>
-  <b>— Mark Twain</b>
+  <i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i><br>
+  <b>— Josh Waitzkin</b>
 </p>
 <!--END_SECTION:quote-->
 
