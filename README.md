@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i><br>
-  <b>— Theodore Roosevelt</b>
+  <i>"Kindness is a language which the deaf can hear and the blind can see."</i><br>
+  <b>— Mark Twain</b>
 </p>
 <!--END_SECTION:quote-->
 
