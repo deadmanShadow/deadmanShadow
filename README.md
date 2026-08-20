@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i><br>
-  <b>— James Matthew Barrie</b>
+  <i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i><br>
+  <b>— Charles Darwin</b>
 </p>
 <!--END_SECTION:quote-->
 
