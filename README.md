@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i><br>
-  <b>— Josh Waitzkin</b>
+  <i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i><br>
+  <b>— James Matthew Barrie</b>
 </p>
 <!--END_SECTION:quote-->
 
