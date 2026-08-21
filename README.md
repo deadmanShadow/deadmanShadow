@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i><br>
-  <b>— Seungsahn</b>
+  <i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i><br>
+  <b>— Anne Frank</b>
 </p>
 <!--END_SECTION:quote-->
 
