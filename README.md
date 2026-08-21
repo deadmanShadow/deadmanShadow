@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i><br>
-  <b>— Charles Darwin</b>
+  <i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i><br>
+  <b>— Seungsahn</b>
 </p>
 <!--END_SECTION:quote-->
 
