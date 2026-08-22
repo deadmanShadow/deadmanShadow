@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Integrity is the ability to stand by an idea."</i><br>
-  <b>— Ayn Rand</b>
+  <i>"If you do not conquer self, you will be conquered by self."</i><br>
+  <b>— Napoleon Hill</b>
 </p>
 <!--END_SECTION:quote-->
 
