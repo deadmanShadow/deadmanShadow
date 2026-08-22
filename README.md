@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i><br>
-  <b>— Anne Frank</b>
+  <i>"Integrity is the ability to stand by an idea."</i><br>
+  <b>— Ayn Rand</b>
 </p>
 <!--END_SECTION:quote-->
 
