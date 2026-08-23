@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you do not conquer self, you will be conquered by self."</i><br>
-  <b>— Napoleon Hill</b>
+  <i>"Nothing in this universe occurs by accident."</i><br>
+  <b>— Neale Donald Walsch</b>
 </p>
 <!--END_SECTION:quote-->
 
