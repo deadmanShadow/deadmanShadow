@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Nothing in this universe occurs by accident."</i><br>
-  <b>— Neale Donald Walsch</b>
+  <i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i><br>
+  <b>— Mark Twain</b>
 </p>
 <!--END_SECTION:quote-->
 
