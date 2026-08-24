@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i><br>
-  <b>— Mark Twain</b>
+  <i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i><br>
+  <b>— Anita Krizzan</b>
 </p>
 <!--END_SECTION:quote-->
 
