@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Change is inevitable but personal growth is a choice."</i><br>
-  <b>— Bob Proctor</b>
+  <i>"You do not read a book for the book's sake, but for your own."</i><br>
+  <b>— Earl Nightingale</b>
 </p>
 <!--END_SECTION:quote-->
 
