@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The fewer the words, the better the prayer."</i><br>
-  <b>— Martin Luther</b>
+  <i>"Change is inevitable but personal growth is a choice."</i><br>
+  <b>— Bob Proctor</b>
 </p>
 <!--END_SECTION:quote-->
 
