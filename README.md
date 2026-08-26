@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You do not read a book for the book's sake, but for your own."</i><br>
-  <b>— Earl Nightingale</b>
+  <i>"You have to go through the falling down in order to learn to walk. It helps to know that you can survive it. That's an education in itself."</i><br>
+  <b>— Carol Burnett</b>
 </p>
 <!--END_SECTION:quote-->
 
