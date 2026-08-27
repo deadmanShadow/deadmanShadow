@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on."</i><br>
-  <b>— Criss Jami</b>
+  <i>"Age is a very high price to pay for maturity."</i><br>
+  <b>— William James</b>
 </p>
 <!--END_SECTION:quote-->
 
