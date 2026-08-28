@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Age is a very high price to pay for maturity."</i><br>
-  <b>— William James</b>
+  <i>"Yesterday is but today's memory, tomorrow is today's dream."</i><br>
+  <b>— Kahlil Gibran</b>
 </p>
 <!--END_SECTION:quote-->
 
