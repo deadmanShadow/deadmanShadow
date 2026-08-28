@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Yesterday is but today's memory, tomorrow is today's dream."</i><br>
-  <b>— Kahlil Gibran</b>
+  <i>"The greatest deception men suffer is from their own opinions."</i><br>
+  <b>— Leonardo da Vinci</b>
 </p>
 <!--END_SECTION:quote-->
 
