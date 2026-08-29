@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Friendship is like money, easier made than kept."</i><br>
-  <b>— Samuel Butler</b>
+  <i>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</i><br>
+  <b>— Gary Keller</b>
 </p>
 <!--END_SECTION:quote-->
 
