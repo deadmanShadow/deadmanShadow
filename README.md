@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The greatest deception men suffer is from their own opinions."</i><br>
-  <b>— Leonardo da Vinci</b>
+  <i>"Friendship is like money, easier made than kept."</i><br>
+  <b>— Samuel Butler</b>
 </p>
 <!--END_SECTION:quote-->
 
