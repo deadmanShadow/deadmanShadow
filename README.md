@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Knowing yourself is the beginning of all wisdom."</i><br>
-  <b>— Aristotle</b>
+  <i>"Change is not a four letter word...but often your reaction to it is!"</i><br>
+  <b>— Jeffrey Gitomer</b>
 </p>
 <!--END_SECTION:quote-->
 
