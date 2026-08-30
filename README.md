@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</i><br>
-  <b>— Gary Keller</b>
+  <i>"Knowing yourself is the beginning of all wisdom."</i><br>
+  <b>— Aristotle</b>
 </p>
 <!--END_SECTION:quote-->
 
