@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Change is not a four letter word...but often your reaction to it is!"</i><br>
-  <b>— Jeffrey Gitomer</b>
+  <i>"Life is ours to be spent, not to be saved."</i><br>
+  <b>— D. H. Lawrence</b>
 </p>
 <!--END_SECTION:quote-->
 
