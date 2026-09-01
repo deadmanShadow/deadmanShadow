@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"We can't help everyone, but everyone can help someone."</i><br>
-  <b>— Ronald Reagan</b>
+  <i>"Saying nothing sometimes says the most."</i><br>
+  <b>— Emily Dickinson</b>
 </p>
 <!--END_SECTION:quote-->
 
