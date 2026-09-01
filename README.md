@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Be royal in your own fashion: act like a king to be treated like one."</i><br>
-  <b>— Robert Greene</b>
+  <i>"We can't help everyone, but everyone can help someone."</i><br>
+  <b>— Ronald Reagan</b>
 </p>
 <!--END_SECTION:quote-->
 
