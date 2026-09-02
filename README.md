@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Every day may not be good, but there's something good in every day."</i><br>
-  <b>— Unknown</b>
+  <i>"You just can't beat the person who never gives up."</i><br>
+  <b>— Babe Ruth</b>
 </p>
 <!--END_SECTION:quote-->
 
