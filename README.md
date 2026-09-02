@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Saying nothing sometimes says the most."</i><br>
-  <b>— Emily Dickinson</b>
+  <i>"Every day may not be good, but there's something good in every day."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
