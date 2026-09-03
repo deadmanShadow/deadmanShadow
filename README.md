@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You just can't beat the person who never gives up."</i><br>
-  <b>— Babe Ruth</b>
+  <i>"Where words fail, music speaks."</i><br>
+  <b>— Hans Christian Andersen</b>
 </p>
 <!--END_SECTION:quote-->
 
