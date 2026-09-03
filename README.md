@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Where words fail, music speaks."</i><br>
-  <b>— Hans Christian Andersen</b>
+  <i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i><br>
+  <b>— Benjamin Franklin</b>
 </p>
 <!--END_SECTION:quote-->
 
