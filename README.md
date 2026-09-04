@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Comedy = tragedy + time."</i><br>
-  <b>— Carol Burnett</b>
+  <i>"Knowing others is wisdom, knowing yourself is enlightenment."</i><br>
+  <b>— Lao Tzu</b>
 </p>
 <!--END_SECTION:quote-->
 
