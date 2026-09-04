@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i><br>
-  <b>— Benjamin Franklin</b>
+  <i>"Comedy = tragedy + time."</i><br>
+  <b>— Carol Burnett</b>
 </p>
 <!--END_SECTION:quote-->
 
