@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Open your mind before your mouth."</i><br>
-  <b>— Aristophanes</b>
+  <i>"We can have more than we've got because we can become more than we are."</i><br>
+  <b>— Jim Rohn</b>
 </p>
 <!--END_SECTION:quote-->
 
