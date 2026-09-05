@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Knowing others is wisdom, knowing yourself is enlightenment."</i><br>
-  <b>— Lao Tzu</b>
+  <i>"Open your mind before your mouth."</i><br>
+  <b>— Aristophanes</b>
 </p>
 <!--END_SECTION:quote-->
 
