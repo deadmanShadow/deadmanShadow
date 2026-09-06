@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i><br>
-  <b>— Ming-Dao Deng</b>
+  <i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i><br>
+  <b>— Charles Spurgeon</b>
 </p>
 <!--END_SECTION:quote-->
 
