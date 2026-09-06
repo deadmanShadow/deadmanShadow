@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"We can have more than we've got because we can become more than we are."</i><br>
-  <b>— Jim Rohn</b>
+  <i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i><br>
+  <b>— Ming-Dao Deng</b>
 </p>
 <!--END_SECTION:quote-->
 
