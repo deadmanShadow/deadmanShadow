@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Only in the agony of parting do we look into the depths of love."</i><br>
-  <b>— George Eliot</b>
+  <i>"Seek not the good in external things;seek it in yourselves."</i><br>
+  <b>— Epictetus</b>
 </p>
 <!--END_SECTION:quote-->
 
