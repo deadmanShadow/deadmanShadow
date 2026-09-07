@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i><br>
-  <b>— Charles Spurgeon</b>
+  <i>"Only in the agony of parting do we look into the depths of love."</i><br>
+  <b>— George Eliot</b>
 </p>
 <!--END_SECTION:quote-->
 
