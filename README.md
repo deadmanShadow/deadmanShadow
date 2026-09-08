@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night."</i><br>
-  <b>— Margaret Mead</b>
+  <i>"Don't be pushed by your problems; be led by your dreams."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
