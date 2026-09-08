@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Seek not the good in external things;seek it in yourselves."</i><br>
-  <b>— Epictetus</b>
+  <i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night."</i><br>
+  <b>— Margaret Mead</b>
 </p>
 <!--END_SECTION:quote-->
 
