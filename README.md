@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There is no path to Love. Love is the path."</i><br>
-  <b>— Dan Millman</b>
+  <i>"To be angry is to revenge the faults of others on ourselves."</i><br>
+  <b>— Alexander Pope</b>
 </p>
 <!--END_SECTION:quote-->
 
