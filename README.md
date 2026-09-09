@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Don't be pushed by your problems; be led by your dreams."</i><br>
-  <b>— Unknown</b>
+  <i>"There is no path to Love. Love is the path."</i><br>
+  <b>— Dan Millman</b>
 </p>
 <!--END_SECTION:quote-->
 
