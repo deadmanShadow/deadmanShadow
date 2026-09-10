@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"To be angry is to revenge the faults of others on ourselves."</i><br>
-  <b>— Alexander Pope</b>
+  <i>"Fear does not have any special power unless you empower it by submitting to it."</i><br>
+  <b>— Les Brown</b>
 </p>
 <!--END_SECTION:quote-->
 
