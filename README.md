@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Fear does not have any special power unless you empower it by submitting to it."</i><br>
-  <b>— Les Brown</b>
+  <i>"The only time you run out of chances is when you stop taking them."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
