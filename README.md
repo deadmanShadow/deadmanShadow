@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It is easier to fight for one's principles than to live up to them."</i><br>
-  <b>— Alfred Adler</b>
+  <i>"Originality is the fine art of remembering what you hear but forgetting where you heard it."</i><br>
+  <b>— Laurence J. Peter</b>
 </p>
 <!--END_SECTION:quote-->
 
