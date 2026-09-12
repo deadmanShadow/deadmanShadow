@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Originality is the fine art of remembering what you hear but forgetting where you heard it."</i><br>
-  <b>— Laurence J. Peter</b>
+  <i>"When you know what you want, and want it bad enough, you will find a way to get it."</i><br>
+  <b>— Jim Rohn</b>
 </p>
 <!--END_SECTION:quote-->
 
