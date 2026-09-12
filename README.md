@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When you know what you want, and want it bad enough, you will find a way to get it."</i><br>
-  <b>— Jim Rohn</b>
+  <i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i><br>
+  <b>— Maxime Lagace</b>
 </p>
 <!--END_SECTION:quote-->
 
