@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i><br>
-  <b>— Ayn Rand</b>
+  <i>"The Art of Peace begins with you."</i><br>
+  <b>— Morihei Ueshiba</b>
 </p>
 <!--END_SECTION:quote-->
 
