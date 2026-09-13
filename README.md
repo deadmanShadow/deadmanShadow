@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i><br>
-  <b>— Maxime Lagace</b>
+  <i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i><br>
+  <b>— Ayn Rand</b>
 </p>
 <!--END_SECTION:quote-->
 
