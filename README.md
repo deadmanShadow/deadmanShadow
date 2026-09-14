@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Public opinion is the worst of all opinions."</i><br>
-  <b>— Nicolas Chamfort</b>
+  <i>"Respect was invented to cover the empty place where love should be."</i><br>
+  <b>— Leo Tolstoy</b>
 </p>
 <!--END_SECTION:quote-->
 
