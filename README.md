@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The Art of Peace begins with you."</i><br>
-  <b>— Morihei Ueshiba</b>
+  <i>"Public opinion is the worst of all opinions."</i><br>
+  <b>— Nicolas Chamfort</b>
 </p>
 <!--END_SECTION:quote-->
 
