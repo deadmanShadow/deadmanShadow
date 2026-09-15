@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The best way to find yourself is to lose yourself in the service of others."</i><br>
-  <b>— Mahatma Gandhi</b>
+  <i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i><br>
+  <b>— Bruce Lee</b>
 </p>
 <!--END_SECTION:quote-->
 
