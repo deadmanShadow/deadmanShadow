@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Respect was invented to cover the empty place where love should be."</i><br>
-  <b>— Leo Tolstoy</b>
+  <i>"The best way to find yourself is to lose yourself in the service of others."</i><br>
+  <b>— Mahatma Gandhi</b>
 </p>
 <!--END_SECTION:quote-->
 
