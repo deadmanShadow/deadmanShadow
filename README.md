@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The person who is his own master cannot tolerate another boss."</i><br>
-  <b>— Chinese Proverb</b>
+  <i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i><br>
+  <b>— James Allen</b>
 </p>
 <!--END_SECTION:quote-->
 
