@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i><br>
-  <b>— Bruce Lee</b>
+  <i>"The person who is his own master cannot tolerate another boss."</i><br>
+  <b>— Chinese Proverb</b>
 </p>
 <!--END_SECTION:quote-->
 
