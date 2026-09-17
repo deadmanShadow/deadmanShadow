@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A warrior does not give up what he loves, he finds the love in what he does."</i><br>
-  <b>— Dan Millman</b>
+  <i>"Goodness is the only investment that never fails."</i><br>
+  <b>— Henry David Thoreau</b>
 </p>
 <!--END_SECTION:quote-->
 
