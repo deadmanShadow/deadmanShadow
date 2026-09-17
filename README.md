@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i><br>
-  <b>— James Allen</b>
+  <i>"A warrior does not give up what he loves, he finds the love in what he does."</i><br>
+  <b>— Dan Millman</b>
 </p>
 <!--END_SECTION:quote-->
 
