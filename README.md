@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A zen master's life is one continuous mistake."</i><br>
-  <b>— Dogen</b>
+  <i>"The easiest way in the world to make enemies is to hire friends."</i><br>
+  <b>— George Lorimer</b>
 </p>
 <!--END_SECTION:quote-->
 
