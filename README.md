@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i><br>
-  <b>— Seneca</b>
+  <i>"A golden cage is still just a cage."</i><br>
+  <b>— Anita Krizzan</b>
 </p>
 <!--END_SECTION:quote-->
 
