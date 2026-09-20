@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you need inspiration, don't do it."</i><br>
-  <b>— Elon Musk</b>
+  <i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i><br>
+  <b>— Seneca</b>
 </p>
 <!--END_SECTION:quote-->
 
