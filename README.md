@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you want something you've never had you must be willing to do something you've never done."</i><br>
-  <b>— Thomas Jefferson</b>
+  <i>"Ask no questions, and you'll be told no lies."</i><br>
+  <b>— Charles Dickens</b>
 </p>
 <!--END_SECTION:quote-->
 
