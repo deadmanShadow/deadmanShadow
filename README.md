@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A golden cage is still just a cage."</i><br>
-  <b>— Anita Krizzan</b>
+  <i>"If you want something you've never had you must be willing to do something you've never done."</i><br>
+  <b>— Thomas Jefferson</b>
 </p>
 <!--END_SECTION:quote-->
 
