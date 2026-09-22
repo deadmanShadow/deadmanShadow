@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The final mystery is oneself."</i><br>
-  <b>— Oscar Wilde</b>
+  <i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted."</i><br>
+  <b>— Denis Waitley</b>
 </p>
 <!--END_SECTION:quote-->
 
