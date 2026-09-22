@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Ask no questions, and you'll be told no lies."</i><br>
-  <b>— Charles Dickens</b>
+  <i>"The final mystery is oneself."</i><br>
+  <b>— Oscar Wilde</b>
 </p>
 <!--END_SECTION:quote-->
 
