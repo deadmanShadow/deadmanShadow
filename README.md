@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted."</i><br>
-  <b>— Denis Waitley</b>
+  <i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i><br>
+  <b>— Eckhart Tolle</b>
 </p>
 <!--END_SECTION:quote-->
 
