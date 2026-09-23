@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i><br>
-  <b>— Eckhart Tolle</b>
+  <i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i><br>
+  <b>— George Bernard Shaw</b>
 </p>
 <!--END_SECTION:quote-->
 
