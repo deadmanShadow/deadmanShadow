@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i><br>
-  <b>— Estee Lauder</b>
+  <i>"You're always free to change your mind and choose a different future, or a different past."</i><br>
+  <b>— Richard Bach</b>
 </p>
 <!--END_SECTION:quote-->
 
