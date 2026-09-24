@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i><br>
-  <b>— George Bernard Shaw</b>
+  <i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i><br>
+  <b>— Estee Lauder</b>
 </p>
 <!--END_SECTION:quote-->
 
