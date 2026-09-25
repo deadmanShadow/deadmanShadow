@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i><br>
-  <b>— Pema Chodron</b>
+  <i>"The key to success is to focus our conscious mind on things we desire not things we fear."</i><br>
+  <b>— Brian Tracy</b>
 </p>
 <!--END_SECTION:quote-->
 
