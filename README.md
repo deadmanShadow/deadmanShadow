@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You're always free to change your mind and choose a different future, or a different past."</i><br>
-  <b>— Richard Bach</b>
+  <i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i><br>
+  <b>— Pema Chodron</b>
 </p>
 <!--END_SECTION:quote-->
 
