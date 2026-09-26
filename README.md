@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I do not seek. I find."</i><br>
-  <b>— Pablo Picasso</b>
+  <i>"Passion is energy. Feel the power that comes from focusing on what excites you."</i><br>
+  <b>— Oprah Winfrey</b>
 </p>
 <!--END_SECTION:quote-->
 
