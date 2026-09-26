@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The key to success is to focus our conscious mind on things we desire not things we fear."</i><br>
-  <b>— Brian Tracy</b>
+  <i>"I do not seek. I find."</i><br>
+  <b>— Pablo Picasso</b>
 </p>
 <!--END_SECTION:quote-->
 
