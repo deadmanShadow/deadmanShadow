@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Not all of us can do great things. But we can do small things with great love."</i><br>
-  <b>— Mother Teresa</b>
+  <i>"The reward of suffering is experience."</i><br>
+  <b>— Harry S. Truman</b>
 </p>
 <!--END_SECTION:quote-->
 
