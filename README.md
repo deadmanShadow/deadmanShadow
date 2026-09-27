@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Passion is energy. Feel the power that comes from focusing on what excites you."</i><br>
-  <b>— Oprah Winfrey</b>
+  <i>"Not all of us can do great things. But we can do small things with great love."</i><br>
+  <b>— Mother Teresa</b>
 </p>
 <!--END_SECTION:quote-->
 
