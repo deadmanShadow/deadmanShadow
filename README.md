@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i><br>
-  <b>— Amelia Earhart</b>
+  <i>"If you aim at nothing, you will hit it every time."</i><br>
+  <b>— Zig Ziglar</b>
 </p>
 <!--END_SECTION:quote-->
 
