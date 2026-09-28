@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The reward of suffering is experience."</i><br>
-  <b>— Harry S. Truman</b>
+  <i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i><br>
+  <b>— Amelia Earhart</b>
 </p>
 <!--END_SECTION:quote-->
 
