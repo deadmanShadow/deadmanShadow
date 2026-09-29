@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Love is the absence of judgment."</i><br>
-  <b>— Dalai Lama</b>
+  <i>"Do not save what is left after spending, but spend what is left after saving."</i><br>
+  <b>— Warren Buffett</b>
 </p>
 <!--END_SECTION:quote-->
 
