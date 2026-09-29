@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you aim at nothing, you will hit it every time."</i><br>
-  <b>— Zig Ziglar</b>
+  <i>"Love is the absence of judgment."</i><br>
+  <b>— Dalai Lama</b>
 </p>
 <!--END_SECTION:quote-->
 
