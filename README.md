@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The older you get, the better you get. Unless you're a banana."</i><br>
-  <b>— Betty White</b>
+  <i>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone."</i><br>
+  <b>— Orison Swett Marden</b>
 </p>
 <!--END_SECTION:quote-->
 
