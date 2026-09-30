@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Do not save what is left after spending, but spend what is left after saving."</i><br>
-  <b>— Warren Buffett</b>
+  <i>"The older you get, the better you get. Unless you're a banana."</i><br>
+  <b>— Betty White</b>
 </p>
 <!--END_SECTION:quote-->
 
