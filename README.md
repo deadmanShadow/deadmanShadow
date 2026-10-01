@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There can be no deep disappointment where there is not deep love."</i><br>
-  <b>— Martin Luther King, Jr.</b>
+  <i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i><br>
+  <b>— Jeffrey Gitomer</b>
 </p>
 <!--END_SECTION:quote-->
 
