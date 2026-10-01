@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone."</i><br>
-  <b>— Orison Swett Marden</b>
+  <i>"There can be no deep disappointment where there is not deep love."</i><br>
+  <b>— Martin Luther King, Jr.</b>
 </p>
 <!--END_SECTION:quote-->
 
