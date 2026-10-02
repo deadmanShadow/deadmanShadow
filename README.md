@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Change begets change. Nothing propagates so fast."</i><br>
-  <b>— Charles Dickens</b>
+  <i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</i><br>
+  <b>— Rumi</b>
 </p>
 <!--END_SECTION:quote-->
 
