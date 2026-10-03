@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A clear conscience never fears midnight knocking."</i><br>
-  <b>— Chinese Proverb</b>
+  <i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i><br>
+  <b>— William Faulkner</b>
 </p>
 <!--END_SECTION:quote-->
 
