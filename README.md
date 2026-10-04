@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i><br>
-  <b>— William Faulkner</b>
+  <i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i><br>
+  <b>— T.S. Eliot</b>
 </p>
 <!--END_SECTION:quote-->
 
