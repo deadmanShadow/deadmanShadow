@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i><br>
-  <b>— Alan Watts</b>
+  <i>"If you always do what you've always done, you'll always get what you've always got."</i><br>
+  <b>— Henry Ford</b>
 </p>
 <!--END_SECTION:quote-->
 
