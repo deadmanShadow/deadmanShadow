@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i><br>
-  <b>— Richard Bach</b>
+  <i>"Alone we can do so little; together we can do so much."</i><br>
+  <b>— Helen Keller</b>
 </p>
 <!--END_SECTION:quote-->
 
