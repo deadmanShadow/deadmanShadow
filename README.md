@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult."</i><br>
-  <b>— Seneca</b>
+  <i>"When you lose your desire for things that do not matter, you will be free."</i><br>
+  <b>— Morihei Ueshiba</b>
 </p>
 <!--END_SECTION:quote-->
 
