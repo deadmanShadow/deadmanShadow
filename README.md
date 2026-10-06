@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance."</i><br>
-  <b>— Brian Tracy</b>
+  <i>"There's more to life than being a passenger."</i><br>
+  <b>— Amelia Earhart</b>
 </p>
 <!--END_SECTION:quote-->
 
