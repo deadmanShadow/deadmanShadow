@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There's more to life than being a passenger."</i><br>
-  <b>— Amelia Earhart</b>
+  <i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult."</i><br>
+  <b>— Seneca</b>
 </p>
 <!--END_SECTION:quote-->
 
