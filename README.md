@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Never do to others what you would not like them to do to you."</i><br>
-  <b>— Confucius</b>
+  <i>"If you see yourself as prosperous, you will be."</i><br>
+  <b>— Robert Collier</b>
 </p>
 <!--END_SECTION:quote-->
 
