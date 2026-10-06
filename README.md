@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When you lose your desire for things that do not matter, you will be free."</i><br>
-  <b>— Morihei Ueshiba</b>
+  <i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i><br>
+  <b>— Richard Bach</b>
 </p>
 <!--END_SECTION:quote-->
 
