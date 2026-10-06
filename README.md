@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you always do what you've always done, you'll always get what you've always got."</i><br>
-  <b>— Henry Ford</b>
+  <i>"Where words fail, music speaks."</i><br>
+  <b>— Hans Christian Andersen</b>
 </p>
 <!--END_SECTION:quote-->
 
