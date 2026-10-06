@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Where words fail, music speaks."</i><br>
-  <b>— Hans Christian Andersen</b>
+  <i>"Never do to others what you would not like them to do to you."</i><br>
+  <b>— Confucius</b>
 </p>
 <!--END_SECTION:quote-->
 
