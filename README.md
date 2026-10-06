@@ -6,8 +6,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you see yourself as prosperous, you will be."</i><br>
-  <b>— Robert Collier</b>
+  <i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance."</i><br>
+  <b>— Brian Tracy</b>
 </p>
 <!--END_SECTION:quote-->
 
