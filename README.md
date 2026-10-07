@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i><br>
-  <b>— Thomas Jefferson</b>
+  <i>"It doesn't matter what you do, only how well you do it."</i><br>
+  <b>— Dan Millman</b>
 </p>
 <!--END_SECTION:quote-->
 
