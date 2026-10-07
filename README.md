@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Alone we can do so little; together we can do so much."</i><br>
-  <b>— Helen Keller</b>
+  <i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i><br>
+  <b>— Thomas Jefferson</b>
 </p>
 <!--END_SECTION:quote-->
 
