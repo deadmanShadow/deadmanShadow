@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It doesn't matter what you do, only how well you do it."</i><br>
-  <b>— Dan Millman</b>
+  <i>"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today."</i><br>
+  <b>— Thich Nhat Hanh</b>
 </p>
 <!--END_SECTION:quote-->
 
