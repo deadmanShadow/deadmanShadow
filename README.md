@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today."</i><br>
-  <b>— Thich Nhat Hanh</b>
+  <i>"Quality means doing it right when no one is looking."</i><br>
+  <b>— Henry Ford</b>
 </p>
 <!--END_SECTION:quote-->
 
