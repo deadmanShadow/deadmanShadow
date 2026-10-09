@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Quality means doing it right when no one is looking."</i><br>
-  <b>— Henry Ford</b>
+  <i>"Failure is an option, fear is not."</i><br>
+  <b>— James Cameron</b>
 </p>
 <!--END_SECTION:quote-->
 
