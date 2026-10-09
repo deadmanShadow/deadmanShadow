@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Failure is an option, fear is not."</i><br>
-  <b>— James Cameron</b>
+  <i>"The biggest adventure is what lies ahead."</i><br>
+  <b>— J.R.R. Tolkien</b>
 </p>
 <!--END_SECTION:quote-->
 
