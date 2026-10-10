@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Experience is a comb which nature gives us when we are bald."</i><br>
-  <b>— Chinese Proverb</b>
+  <i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
