@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The biggest adventure is what lies ahead."</i><br>
-  <b>— J.R.R. Tolkien</b>
+  <i>"Experience is a comb which nature gives us when we are bald."</i><br>
+  <b>— Chinese Proverb</b>
 </p>
 <!--END_SECTION:quote-->
 
