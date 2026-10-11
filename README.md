@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i><br>
-  <b>— Unknown</b>
+  <i>"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."</i><br>
+  <b>— Colin R. Davis</b>
 </p>
 <!--END_SECTION:quote-->
 
