@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."</i><br>
-  <b>— Colin R. Davis</b>
+  <i>"Every moment is a fresh beginning."</i><br>
+  <b>— T.S. Eliot</b>
 </p>
 <!--END_SECTION:quote-->
 
