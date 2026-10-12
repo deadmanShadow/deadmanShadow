@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Every moment is a fresh beginning."</i><br>
-  <b>— T.S. Eliot</b>
+  <i>"Blessed is he who expects nothing, for he shall never be disappointed."</i><br>
+  <b>— Alexander Pope</b>
 </p>
 <!--END_SECTION:quote-->
 
