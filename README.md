@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Blessed is he who expects nothing, for he shall never be disappointed."</i><br>
-  <b>— Alexander Pope</b>
+  <i>"I would rather be hated for who I am than loved for who I'm not."</i><br>
+  <b>— Wayne Dyer</b>
 </p>
 <!--END_SECTION:quote-->
 
