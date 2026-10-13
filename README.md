@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Believe you can and you're halfway there."</i><br>
-  <b>— Theodore Roosevelt</b>
+  <i>"It's the possibility of having a dream come true that makes life interesting."</i><br>
+  <b>— Paulo Coelho</b>
 </p>
 <!--END_SECTION:quote-->
 
