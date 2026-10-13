@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I would rather be hated for who I am than loved for who I'm not."</i><br>
-  <b>— Wayne Dyer</b>
+  <i>"Believe you can and you're halfway there."</i><br>
+  <b>— Theodore Roosevelt</b>
 </p>
 <!--END_SECTION:quote-->
 
