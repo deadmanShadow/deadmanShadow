@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i><br>
-  <b>— Naval Ravikant</b>
+  <i>"A Penny Saved is a Penny Earned"</i><br>
+  <b>— Benjamin Franklin</b>
 </p>
 <!--END_SECTION:quote-->
 
