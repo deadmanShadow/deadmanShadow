@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A Penny Saved is a Penny Earned"</i><br>
-  <b>— Benjamin Franklin</b>
+  <i>"Sometimes a change of perspective is all it takes to see the light."</i><br>
+  <b>— Dan Brown</b>
 </p>
 <!--END_SECTION:quote-->
 
