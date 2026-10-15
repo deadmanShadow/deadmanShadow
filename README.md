@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Sometimes a change of perspective is all it takes to see the light."</i><br>
-  <b>— Dan Brown</b>
+  <i>"Think progress, not perfection."</i><br>
+  <b>— Ryan Holiday</b>
 </p>
 <!--END_SECTION:quote-->
 
