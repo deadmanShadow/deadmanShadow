@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"All that we see or seem is but a dream within a dream."</i><br>
-  <b>— Edgar Allan Poe</b>
+  <i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i><br>
+  <b>— Isaac Newton</b>
 </p>
 <!--END_SECTION:quote-->
 
