@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Think progress, not perfection."</i><br>
-  <b>— Ryan Holiday</b>
+  <i>"All that we see or seem is but a dream within a dream."</i><br>
+  <b>— Edgar Allan Poe</b>
 </p>
 <!--END_SECTION:quote-->
 
