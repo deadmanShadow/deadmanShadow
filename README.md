@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i><br>
-  <b>— Ming-Dao Deng</b>
+  <i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society."</i><br>
+  <b>— Jiddu Krishnamurti</b>
 </p>
 <!--END_SECTION:quote-->
 
