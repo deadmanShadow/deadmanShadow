@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i><br>
-  <b>— Isaac Newton</b>
+  <i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i><br>
+  <b>— Ming-Dao Deng</b>
 </p>
 <!--END_SECTION:quote-->
 
