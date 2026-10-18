@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society."</i><br>
-  <b>— Jiddu Krishnamurti</b>
+  <i>"There is no self-discovery without pain and loss."</i><br>
+  <b>— Anita Krizzan</b>
 </p>
 <!--END_SECTION:quote-->
 
