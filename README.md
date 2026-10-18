@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There is no self-discovery without pain and loss."</i><br>
-  <b>— Anita Krizzan</b>
+  <i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i><br>
+  <b>— Henry Ford</b>
 </p>
 <!--END_SECTION:quote-->
 
