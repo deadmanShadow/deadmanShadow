@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i><br>
-  <b>— Henry Ford</b>
+  <i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i><br>
+  <b>— Eleanor Roosevelt</b>
 </p>
 <!--END_SECTION:quote-->
 
