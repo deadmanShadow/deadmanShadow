@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i><br>
-  <b>— Eleanor Roosevelt</b>
+  <i>"Life is one long process of getting tired."</i><br>
+  <b>— Samuel Butler</b>
 </p>
 <!--END_SECTION:quote-->
 
