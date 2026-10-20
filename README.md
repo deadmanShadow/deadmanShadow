@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Life has no limitations except the ones you make."</i><br>
-  <b>— Les Brown</b>
+  <i>"Perplexity is the beginning of knowledge."</i><br>
+  <b>— Kahlil Gibran</b>
 </p>
 <!--END_SECTION:quote-->
 
