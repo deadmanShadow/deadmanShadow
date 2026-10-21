@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Freedom itself demands discomfort."</i><br>
-  <b>— Mark Manson</b>
+  <i>"The only time you run out of chances is when you stop taking them."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
