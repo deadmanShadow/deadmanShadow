@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Perplexity is the beginning of knowledge."</i><br>
-  <b>— Kahlil Gibran</b>
+  <i>"Freedom itself demands discomfort."</i><br>
+  <b>— Mark Manson</b>
 </p>
 <!--END_SECTION:quote-->
 
