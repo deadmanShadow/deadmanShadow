@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The only time you run out of chances is when you stop taking them."</i><br>
-  <b>— Unknown</b>
+  <i>"Rivers know this: there is no hurry. We shall get there some day."</i><br>
+  <b>— A.A. Milne</b>
 </p>
 <!--END_SECTION:quote-->
 
