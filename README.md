@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Rivers know this: there is no hurry. We shall get there some day."</i><br>
-  <b>— A.A. Milne</b>
+  <i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i><br>
+  <b>— Zig Ziglar</b>
 </p>
 <!--END_SECTION:quote-->
 
