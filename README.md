@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You have to keep breaking your heart until it opens."</i><br>
-  <b>— Rumi</b>
+  <i>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</i><br>
+  <b>— Nelson Mandela</b>
 </p>
 <!--END_SECTION:quote-->
 
