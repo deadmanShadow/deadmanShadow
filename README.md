@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i><br>
-  <b>— Zig Ziglar</b>
+  <i>"You have to keep breaking your heart until it opens."</i><br>
+  <b>— Rumi</b>
 </p>
 <!--END_SECTION:quote-->
 
