@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The wise learn many things from their enemies."</i><br>
-  <b>— Aristophanes</b>
+  <i>"I was wise enough to never grow up while fooling most people into believing I had."</i><br>
+  <b>— Margaret Mead</b>
 </p>
 <!--END_SECTION:quote-->
 
