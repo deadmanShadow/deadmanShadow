@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I was wise enough to never grow up while fooling most people into believing I had."</i><br>
-  <b>— Margaret Mead</b>
+  <i>"You are now, and you do become, what you think about."</i><br>
+  <b>— Earl Nightingale</b>
 </p>
 <!--END_SECTION:quote-->
 
