@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You are now, and you do become, what you think about."</i><br>
-  <b>— Earl Nightingale</b>
+  <i>"You will succeed because most people are lazy."</i><br>
+  <b>— Shahir Zag</b>
 </p>
 <!--END_SECTION:quote-->
 
