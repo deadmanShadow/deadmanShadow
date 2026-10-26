@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"There are more people who wish to be loved than there are who are willing to love."</i><br>
-  <b>— Nicolas Chamfort</b>
+  <i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i><br>
+  <b>— Gary Keller</b>
 </p>
 <!--END_SECTION:quote-->
 
