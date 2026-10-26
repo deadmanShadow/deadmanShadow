@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You will succeed because most people are lazy."</i><br>
-  <b>— Shahir Zag</b>
+  <i>"There are more people who wish to be loved than there are who are willing to love."</i><br>
+  <b>— Nicolas Chamfort</b>
 </p>
 <!--END_SECTION:quote-->
 
