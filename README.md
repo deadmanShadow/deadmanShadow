@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i><br>
-  <b>— Gary Keller</b>
+  <i>"Trying to define yourself is like trying to bite your own teeth."</i><br>
+  <b>— Zen Proverb</b>
 </p>
 <!--END_SECTION:quote-->
 
