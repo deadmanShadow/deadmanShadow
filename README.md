@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Trying to define yourself is like trying to bite your own teeth."</i><br>
-  <b>— Zen Proverb</b>
+  <i>"When you're at the end of your rope, tie a knot and hold on."</i><br>
+  <b>— Theodore Roosevelt</b>
 </p>
 <!--END_SECTION:quote-->
 
