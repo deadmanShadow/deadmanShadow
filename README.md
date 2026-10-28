@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"When you're at the end of your rope, tie a knot and hold on."</i><br>
-  <b>— Theodore Roosevelt</b>
+  <i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i><br>
+  <b>— James Allen</b>
 </p>
 <!--END_SECTION:quote-->
 
