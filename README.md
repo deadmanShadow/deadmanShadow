@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Better than the young man's knowledge is the old man's experience."</i><br>
-  <b>— Tibetan Proverb</b>
+  <i>"What you resist, persists."</i><br>
+  <b>— Carl Jung</b>
 </p>
 <!--END_SECTION:quote-->
 
