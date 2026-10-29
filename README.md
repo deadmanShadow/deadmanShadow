@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"What you resist, persists."</i><br>
-  <b>— Carl Jung</b>
+  <i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i><br>
+  <b>— Dalai Lama</b>
 </p>
 <!--END_SECTION:quote-->
 
