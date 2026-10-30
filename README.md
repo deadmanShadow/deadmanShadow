@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Live calmly. The time will come when the flowers bloom by themselves."</i><br>
-  <b>— Zen Proverb</b>
+  <i>"He will win who knows when to fight and when not to fight."</i><br>
+  <b>— Sun Tzu</b>
 </p>
 <!--END_SECTION:quote-->
 
