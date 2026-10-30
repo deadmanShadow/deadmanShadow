@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i><br>
-  <b>— Dalai Lama</b>
+  <i>"Live calmly. The time will come when the flowers bloom by themselves."</i><br>
+  <b>— Zen Proverb</b>
 </p>
 <!--END_SECTION:quote-->
 
