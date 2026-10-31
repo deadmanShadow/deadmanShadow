@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Do what you can, with what you have, where you are."</i><br>
-  <b>— Colin R. Davis</b>
+  <i>"The key to success is emotional stability."</i><br>
+  <b>— Warren Buffett</b>
 </p>
 <!--END_SECTION:quote-->
 
