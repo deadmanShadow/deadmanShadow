@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"He will win who knows when to fight and when not to fight."</i><br>
-  <b>— Sun Tzu</b>
+  <i>"Do what you can, with what you have, where you are."</i><br>
+  <b>— Colin R. Davis</b>
 </p>
 <!--END_SECTION:quote-->
 
