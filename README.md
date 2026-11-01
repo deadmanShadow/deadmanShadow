@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"He who hesitates is a damned fool."</i><br>
-  <b>— Mae West</b>
+  <i>"Peace is not the absence of conflict, but the ability to cope with it."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
