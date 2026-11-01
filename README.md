@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The key to success is emotional stability."</i><br>
-  <b>— Warren Buffett</b>
+  <i>"He who hesitates is a damned fool."</i><br>
+  <b>— Mae West</b>
 </p>
 <!--END_SECTION:quote-->
 
