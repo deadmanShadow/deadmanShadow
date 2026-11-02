@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Peace is not the absence of conflict, but the ability to cope with it."</i><br>
-  <b>— Unknown</b>
+  <i>"It always started with a dream."</i><br>
+  <b>— Conrad Hilton</b>
 </p>
 <!--END_SECTION:quote-->
 
