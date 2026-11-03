@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i><br>
-  <b>— Steve Maraboli</b>
+  <i>"Keep your dreams, you never know when you might need them."</i><br>
+  <b>— Carlos Ruiz Zafon</b>
 </p>
 <!--END_SECTION:quote-->
 
