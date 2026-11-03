@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Keep your dreams, you never know when you might need them."</i><br>
-  <b>— Carlos Ruiz Zafon</b>
+  <i>"You are never too old to become younger."</i><br>
+  <b>— Mae West</b>
 </p>
 <!--END_SECTION:quote-->
 
