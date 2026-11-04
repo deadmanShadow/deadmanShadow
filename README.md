@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You are never too old to become younger."</i><br>
-  <b>— Mae West</b>
+  <i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i><br>
+  <b>— T.S. Eliot</b>
 </p>
 <!--END_SECTION:quote-->
 
