@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i><br>
-  <b>— T.S. Eliot</b>
+  <i>"Remember the entrance to the sanctuary is inside you."</i><br>
+  <b>— Rumi</b>
 </p>
 <!--END_SECTION:quote-->
 
