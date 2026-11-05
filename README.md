@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i><br>
-  <b>— Meister Eckhart</b>
+  <i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."</i><br>
+  <b>— Lao Tzu</b>
 </p>
 <!--END_SECTION:quote-->
 
