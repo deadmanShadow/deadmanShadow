@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Remember the entrance to the sanctuary is inside you."</i><br>
-  <b>— Rumi</b>
+  <i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i><br>
+  <b>— Meister Eckhart</b>
 </p>
 <!--END_SECTION:quote-->
 
