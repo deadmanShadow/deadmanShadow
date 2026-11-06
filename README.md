@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Educating the mind without educating the heart is no education at all."</i><br>
-  <b>— Aristotle</b>
+  <i>"A wise man will be master of his mind, a fool will be its slave."</i><br>
+  <b>— Publilius Syrus</b>
 </p>
 <!--END_SECTION:quote-->
 
