@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."</i><br>
-  <b>— Lao Tzu</b>
+  <i>"Educating the mind without educating the heart is no education at all."</i><br>
+  <b>— Aristotle</b>
 </p>
 <!--END_SECTION:quote-->
 
