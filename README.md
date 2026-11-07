@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A wise man will be master of his mind, a fool will be its slave."</i><br>
-  <b>— Publilius Syrus</b>
+  <i>"You have as much laughter as you have faith."</i><br>
+  <b>— Martin Luther</b>
 </p>
 <!--END_SECTION:quote-->
 
