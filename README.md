@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You have as much laughter as you have faith."</i><br>
-  <b>— Martin Luther</b>
+  <i>"The majority of what you want will come from the minority of what you do."</i><br>
+  <b>— Gary Keller</b>
 </p>
 <!--END_SECTION:quote-->
 
