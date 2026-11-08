@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I put my heart and soul into my work, and I have lost my mind in the process."</i><br>
-  <b>— Vincent van Gogh</b>
+  <i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i><br>
+  <b>— Rita Mae Brown</b>
 </p>
 <!--END_SECTION:quote-->
 
