@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The majority of what you want will come from the minority of what you do."</i><br>
-  <b>— Gary Keller</b>
+  <i>"I put my heart and soul into my work, and I have lost my mind in the process."</i><br>
+  <b>— Vincent van Gogh</b>
 </p>
 <!--END_SECTION:quote-->
 
