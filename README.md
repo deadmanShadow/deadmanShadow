@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i><br>
-  <b>— Steve Maraboli</b>
+  <i>"Actions are the seeds of fate. Deeds grow into destiny."</i><br>
+  <b>— Harry S. Truman</b>
 </p>
 <!--END_SECTION:quote-->
 
