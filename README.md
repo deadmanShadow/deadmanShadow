@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i><br>
-  <b>— Rita Mae Brown</b>
+  <i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i><br>
+  <b>— Steve Maraboli</b>
 </p>
 <!--END_SECTION:quote-->
 
