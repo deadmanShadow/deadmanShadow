@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i><br>
-  <b>— Roy T. Bennett</b>
+  <i>"I will not walk backward in life."</i><br>
+  <b>— J.R.R. Tolkien</b>
 </p>
 <!--END_SECTION:quote-->
 
