@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Actions are the seeds of fate. Deeds grow into destiny."</i><br>
-  <b>— Harry S. Truman</b>
+  <i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i><br>
+  <b>— Roy T. Bennett</b>
 </p>
 <!--END_SECTION:quote-->
 
