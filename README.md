@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i><br>
-  <b>— Mark Manson</b>
+  <i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i><br>
+  <b>— Naval Ravikant</b>
 </p>
 <!--END_SECTION:quote-->
 
