@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i><br>
-  <b>— Alexander Pope</b>
+  <i>"Your life does not get better by chance, it gets better by change."</i><br>
+  <b>— Jim Rohn</b>
 </p>
 <!--END_SECTION:quote-->
 
