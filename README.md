@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Your life does not get better by chance, it gets better by change."</i><br>
-  <b>— Jim Rohn</b>
+  <i>"Fiction is the truth inside the lie."</i><br>
+  <b>— Stephen King</b>
 </p>
 <!--END_SECTION:quote-->
 
