@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Fiction is the truth inside the lie."</i><br>
-  <b>— Stephen King</b>
+  <i>"Words are the clothing of our thoughts."</i><br>
+  <b>— Jonathan Swift</b>
 </p>
 <!--END_SECTION:quote-->
 
