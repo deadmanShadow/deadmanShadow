@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Change is inevitable but personal growth is a choice."</i><br>
-  <b>— Bob Proctor</b>
+  <i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i><br>
+  <b>— Simon Sinek</b>
 </p>
 <!--END_SECTION:quote-->
 
