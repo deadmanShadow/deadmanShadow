@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Freeing oneself from words is liberation."</i><br>
-  <b>— Bodhidharma</b>
+  <i>"Don't be afraid to see what you see."</i><br>
+  <b>— Ronald Reagan</b>
 </p>
 <!--END_SECTION:quote-->
 
