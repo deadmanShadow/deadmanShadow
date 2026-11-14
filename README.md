@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Words are the clothing of our thoughts."</i><br>
-  <b>— Jonathan Swift</b>
+  <i>"Freeing oneself from words is liberation."</i><br>
+  <b>— Bodhidharma</b>
 </p>
 <!--END_SECTION:quote-->
 
