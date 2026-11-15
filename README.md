@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i><br>
-  <b>— Simon Sinek</b>
+  <i>"The opportunity of defeating the enemy is provided by the enemy himself."</i><br>
+  <b>— Sun Tzu</b>
 </p>
 <!--END_SECTION:quote-->
 
