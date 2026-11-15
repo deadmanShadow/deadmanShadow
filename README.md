@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The opportunity of defeating the enemy is provided by the enemy himself."</i><br>
-  <b>— Sun Tzu</b>
+  <i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i><br>
+  <b>— James Allen</b>
 </p>
 <!--END_SECTION:quote-->
 
