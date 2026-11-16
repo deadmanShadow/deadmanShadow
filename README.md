@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i><br>
-  <b>— James Allen</b>
+  <i>"What worries you, masters you."</i><br>
+  <b>— John Locke</b>
 </p>
 <!--END_SECTION:quote-->
 
