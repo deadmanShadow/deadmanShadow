@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"What worries you, masters you."</i><br>
-  <b>— John Locke</b>
+  <i>"Allow motion to equal emotion."</i><br>
+  <b>— Elbert Hubbard</b>
 </p>
 <!--END_SECTION:quote-->
 
