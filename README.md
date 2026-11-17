@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i><br>
-  <b>— Brian Tracy</b>
+  <i>"Life is simply what our feelings do to us."</i><br>
+  <b>— Honore de Balzac</b>
 </p>
 <!--END_SECTION:quote-->
 
