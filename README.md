@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Allow motion to equal emotion."</i><br>
-  <b>— Elbert Hubbard</b>
+  <i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i><br>
+  <b>— Brian Tracy</b>
 </p>
 <!--END_SECTION:quote-->
 
