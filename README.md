@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow."</i><br>
-  <b>— Chinese Proverb</b>
+  <i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i><br>
+  <b>— Carl Jung</b>
 </p>
 <!--END_SECTION:quote-->
 
