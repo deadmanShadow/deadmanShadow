@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Life is simply what our feelings do to us."</i><br>
-  <b>— Honore de Balzac</b>
+  <i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow."</i><br>
+  <b>— Chinese Proverb</b>
 </p>
 <!--END_SECTION:quote-->
 
