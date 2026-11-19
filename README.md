@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i><br>
-  <b>— Carl Jung</b>
+  <i>"Anything becomes interesting if you look at it long enough.."</i><br>
+  <b>— Gustave Flaubert</b>
 </p>
 <!--END_SECTION:quote-->
 
