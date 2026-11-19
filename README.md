@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Anything becomes interesting if you look at it long enough.."</i><br>
-  <b>— Gustave Flaubert</b>
+  <i>"Today will never happen again. Don't waste it with a false start or no start at all."</i><br>
+  <b>— Og Mandino</b>
 </p>
 <!--END_SECTION:quote-->
 
