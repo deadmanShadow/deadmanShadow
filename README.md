@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Passion creates, addiction consumes."</i><br>
-  <b>— Gabor Mate</b>
+  <i>"Be strong. Be confident. Be the star of your own life."</i><br>
+  <b>— Estee Lauder</b>
 </p>
 <!--END_SECTION:quote-->
 
