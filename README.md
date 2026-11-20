@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Today will never happen again. Don't waste it with a false start or no start at all."</i><br>
-  <b>— Og Mandino</b>
+  <i>"Passion creates, addiction consumes."</i><br>
+  <b>— Gabor Mate</b>
 </p>
 <!--END_SECTION:quote-->
 
