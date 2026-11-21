@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Life and the simple beauty of it is too good to pass up."</i><br>
-  <b>— Christopher McCandless</b>
+  <i>"I have never in my life learned anything from any man who agreed with me."</i><br>
+  <b>— Dudley Field Malone</b>
 </p>
 <!--END_SECTION:quote-->
 
