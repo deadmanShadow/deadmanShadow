@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Be strong. Be confident. Be the star of your own life."</i><br>
-  <b>— Estee Lauder</b>
+  <i>"Life and the simple beauty of it is too good to pass up."</i><br>
+  <b>— Christopher McCandless</b>
 </p>
 <!--END_SECTION:quote-->
 
