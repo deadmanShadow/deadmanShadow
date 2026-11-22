@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"I have never in my life learned anything from any man who agreed with me."</i><br>
-  <b>— Dudley Field Malone</b>
+  <i>"A little progress each day adds up to big results."</i><br>
+  <b>— Unknown</b>
 </p>
 <!--END_SECTION:quote-->
 
