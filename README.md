@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"A little progress each day adds up to big results."</i><br>
-  <b>— Unknown</b>
+  <i>"What you resist, persists."</i><br>
+  <b>— Carl Jung</b>
 </p>
 <!--END_SECTION:quote-->
 
