@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"What you resist, persists."</i><br>
-  <b>— Carl Jung</b>
+  <i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i><br>
+  <b>— Barack Obama</b>
 </p>
 <!--END_SECTION:quote-->
 
