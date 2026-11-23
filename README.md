@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i><br>
-  <b>— Barack Obama</b>
+  <i>"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."</i><br>
+  <b>— Eckhart Tolle</b>
 </p>
 <!--END_SECTION:quote-->
 
