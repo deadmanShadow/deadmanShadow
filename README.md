@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"If you can see it in your mind, you can hold it in your mind."</i><br>
-  <b>— Steve Harvey</b>
+  <i>"The single biggest problem in communication is the illusion that it has taken place."</i><br>
+  <b>— George Bernard Shaw</b>
 </p>
 <!--END_SECTION:quote-->
 
