@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."</i><br>
-  <b>— Eckhart Tolle</b>
+  <i>"If you can see it in your mind, you can hold it in your mind."</i><br>
+  <b>— Steve Harvey</b>
 </p>
 <!--END_SECTION:quote-->
 
