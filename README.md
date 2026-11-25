@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"The single biggest problem in communication is the illusion that it has taken place."</i><br>
-  <b>— George Bernard Shaw</b>
+  <i>"Circumstances rule men; men do not rule circumstances."</i><br>
+  <b>— Herodotus</b>
 </p>
 <!--END_SECTION:quote-->
 
