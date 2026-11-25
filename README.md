@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Circumstances rule men; men do not rule circumstances."</i><br>
-  <b>— Herodotus</b>
+  <i>"Never take your position for granted and never let any favors you receive go to your head."</i><br>
+  <b>— Robert Greene</b>
 </p>
 <!--END_SECTION:quote-->
 
