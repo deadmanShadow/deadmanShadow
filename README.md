@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You cannot find peace by avoiding life."</i><br>
-  <b>— Virginia Woolf</b>
+  <i>"Awaken. Take heed, do not squander your life."</i><br>
+  <b>— Dogen</b>
 </p>
 <!--END_SECTION:quote-->
 
