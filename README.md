@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Never take your position for granted and never let any favors you receive go to your head."</i><br>
-  <b>— Robert Greene</b>
+  <i>"You cannot find peace by avoiding life."</i><br>
+  <b>— Virginia Woolf</b>
 </p>
 <!--END_SECTION:quote-->
 
