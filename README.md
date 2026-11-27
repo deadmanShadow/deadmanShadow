@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Awaken. Take heed, do not squander your life."</i><br>
-  <b>— Dogen</b>
+  <i>"Information changes your mind. Action changes your circumstances."</i><br>
+  <b>— Jack Butcher</b>
 </p>
 <!--END_SECTION:quote-->
 
