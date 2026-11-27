@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Information changes your mind. Action changes your circumstances."</i><br>
-  <b>— Jack Butcher</b>
+  <i>"You cannot always control what goes on outside. But you can always control what goes on inside."</i><br>
+  <b>— Wayne Dyer</b>
 </p>
 <!--END_SECTION:quote-->
 
