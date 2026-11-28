@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"You cannot always control what goes on outside. But you can always control what goes on inside."</i><br>
-  <b>— Wayne Dyer</b>
+  <i>"Only when I fall do I get up again."</i><br>
+  <b>— Vincent van Gogh</b>
 </p>
 <!--END_SECTION:quote-->
 
