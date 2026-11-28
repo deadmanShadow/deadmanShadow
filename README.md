@@ -8,8 +8,8 @@
 
 <!--START_SECTION:quote-->
 <p align="center">
-  <i>"Only when I fall do I get up again."</i><br>
-  <b>— Vincent van Gogh</b>
+  <i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i><br>
+  <b>— Arnold Schwarzenegger</b>
 </p>
 <!--END_SECTION:quote-->
 
